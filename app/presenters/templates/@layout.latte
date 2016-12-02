@@ -1,0 +1,160 @@
+{**
+ * @param string   $basePath web base path
+ * @param array    $flashes  flash messages
+ *}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>{ifset title}{include title|stripHtml} | {/ifset}Webvalley</title>
+
+    {if $showCritical}
+        <style n:syntax="off">.slider,.slider .slide,header{overflow:hidden}a,body,div,h1,h2,header,html,i,img,li,nav,p,section,span,ul{margin:0;padding:0;border:0;vertical-align:baseline}.fonts-loaded body{font-family:Montserrat,sans-serif}body{font-size:14px;line-height:1.618;font-family:sans-serif;font-weight:300}h2{line-height:1.1}a{text-decoration:none}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;-o-text-size-adjust:none;text-size-adjust:none}.clearfix:after,.clearfix:before,.container:after,.container:before,.row:after,.row:before{content:" ";display:table}.clearfix:after,.container:after,.row:after{clear:both}.container{margin-right:auto;margin-left:auto}.row{width:100%}.span-medium-24,.span-mini-16,.span-mini-8,.span-small-8{display:block!important;position:relative!important;padding:0 10px;margin:0;min-height:1px}.span-mini-8{float:left!important;width:33.33333333%}.span-mini-16{float:left!important;width:66.66666667%}@media (min-width:480px){.span-small-8{float:left!important;width:33.33333333%}}@media (min-width:768px){.span-medium-24{float:left!important;width:100%}}@media (min-width:900px){.span-large-12{float:left!important;width:50%}.container{max-width:900px}}@media (min-width:320px){.container{width:100%}}.display-none{display:none!important}.relative{position:relative!important}.text-center{text-align:center!important}.text-right{text-align:right!important}.margin-auto{margin-left:auto;margin-right:auto}.main-navigation{pointer-events:none;opacity:0}i{font-style:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@font-face{font-family:wv;src:url(../fonts/wv/wv.eot?2yn555);src:url(../fonts/wv/wv.eot?#iefix2yn555) format('embedded-opentype'),url(../fonts/wv/wv.ttf?2yn555) format('truetype'),url(../fonts/wv/wv.woff?2yn555) format('woff'),url(../fonts/wv/wv.svg?2yn555#wv) format('svg');font-weight:400;font-style:normal}.wv{font-family:wv}.wv-1:before{content:"\e602"}.wv-2:before{content:"\e603"}.wv-3:before{content:"\e604"}.color-webvalley{color:#faca01}header a i,header h1{color:#FFF}header,section{z-index:2;position:relative}header section{position:static}.abs-center{position:absolute;left:50%;top:50%;-webkit-transform:translateY(-50%) translateX(-50%);-moz-transform:translateY(-50%) translateX(-50%);-ms-transform:translateY(-50%) translateX(-50%);-o-transform:translateY(-50%) translateX(-50%);transform:translateY(-50%) translateX(-50%)}header{position:static}.breadcrumb,header nav .main-navigation{position:absolute}header .circle{width:138px;height:138px;border-radius:1000px;border:2px solid #FFF}header h1{font-weight:200;font-size:51px;line-height:79px;margin:10px auto 70px}header h2{color:#fff;font-size:23px;font-weight:300;margin:20px auto}header p{color:#a1a1a0;font-size:15px;font-weight:300;line-height:22px}header .filter-header{background-color:rgba(0,0,0,.79)}header .main-logo{display:inline-block;margin:42px 0}header .label-navigation{display:inline-block;margin:51px -20px 42px 0;padding:20px}header .label-navigation span{display:block;background-color:#fff;height:2px;width:36px;margin-bottom:10px}.breadcrumb,.lang{display:inline-block}.lang{vertical-align:top;opacity:0}.breadcrumb{font-size:24px;font-weight:200;line-height:1;text-transform:capitalize;color:#fff;left:220px;top:75px;border-left:solid 1px #6d6d6d;padding-left:15px;white-space:nowrap}.references .reference .container,header .go-down{position:relative}header .go-down{font-size:17px;color:#fff;width:100%;text-align:center;padding:40px;display:block}.homepage header{background:url(../images/hp-bg-header.jpg) top center/cover no-repeat fixed}.homepage header p{max-width:270px;margin-left:auto;margin-right:auto}.homepage header .wv-1{font-size:53px}.homepage header .wv-2{font-size:47px}.homepage header .wv-3{font-size:61px}.full-page-close{display:none}.references .reference{background-repeat:no-repeat;background-position:center}.references .reference h1{font-size:47px;margin-top:100px;color:#fff;white-space:nowrap}.references .flofit{background-color:#002a54}.references .adonis{background-color:#000}.references .venus{background-color:#59B2DB}.references .ese{background-color:#607482}.references .tfw{background-color:#221449}.references .hah{background-color:#84171D}.references .flofit .container{height:608px}.references .adonis .container{height:610px}.references .ese .container{height:612px}.references img{position:absolute;bottom:0}.references .flofit img{right:60px}.references .adonis img{right:-86px}@media (max-width:767px){.references .reference .container{height:auto;text-align:center}.references .reference h1{margin-top:40px;margin-bottom:10px}.references .reference img{position:relative;max-width:100%;height:auto;left:auto;right:auto;margin-top:30px}}.slider{height:608px}.slider .area{position:absolute;left:0}.slider .slide{position:relative;float:left;top:0;left:0;width:100%}@media (max-width:767px){.homepage header .wv-1{font-size:33px}.homepage header .wv-2{font-size:27px}.homepage header .wv-3{font-size:41px}header h1{font-size:42px;line-height:1.4;margin:30px auto 40px}header .circle{width:80px;height:80px}header nav{margin-right:10px}}@media (max-width:479px){#slider,.homepage header h2 span,.homepage header p{display:none}.homepage header .span-mini-8{padding:0 5px}.homepage header h2{text-transform:capitalize;font-size:15px}.breadcrumb{top:75px;left:5px;border:none;font-size:14px}header p{margin-bottom:20px}header .main-logo{margin-top:10px}header .label-navigation{margin-top:0;padding:32px}header h1{width:auto;line-height:1.4;margin:10px auto 30px}}.scroll{overflow:auto;padding:70px 0}.graf .item{border-radius:100px;position:relative;display:inline-block}.graf .item .number{color:#fff;font-size:36px;font-weight:200;position:relative}.graf .item .text{color:#B5B5B8;font-size:13px;font-weight:300;position:absolute;line-height:1.4}.graf.graf-services{margin:auto;width:913px;height:316px;background-image:url(../images/graph-5.png);background-repeat:no-repeat;background-position:0 0}.graf.graf-services .item{width:131px;height:131px;margin:0}.graf.graf-services .item .number{padding:0;display:inline-block;text-align:center;width:131px;line-height:131px}.graf.graf-services .item .text{top:150px;text-align:center}.graf.graf-services .item.item-1{left:0;top:7px}.graf.graf-services .item.item-2{left:48px;top:175px}.graf.graf-services .item.item-3{left:115px;top:6px}.graf.graf-services .item.item-4{top:175px;left:180px}.graf.graf-services .item.item-5{top:0;left:237px}.references-body,.services-body,.webs-body{overflow-x:hidden}.webs-body header{background:url(../images/webs-bg-header.jpg) top center/cover no-repeat fixed}.apps-body header{background:url(../images/app-bg-header.jpg) top center/cover no-repeat fixed}.konverze-body header{background:url(../images/konverze-bg-header.jpg) top center/cover no-repeat fixed}.services-body header{background:url(../images/ser-bg-header.jpg) top center/cover no-repeat fixed}.references-body header{background:url(../images/ser-bg-bottom.jpg) top center/cover no-repeat fixed}.about-body header{background:url(../images/about-bg-header.jpg) top center/cover no-repeat fixed}.kariera-body header{background:url(../images/kariera-bg-header.jpg) top center/cover no-repeat fixed;height:740px}.partners-body header{background:url(../images/hp-bg-header.jpg) top center/cover no-repeat fixed}.contact-body header{background:url(../images/contact-bg-header.jpg) top center/cover no-repeat fixed}.contact,.offer{background-color:#2d3551;text-align:center}.kariera-body header .filter-header{height:740px}.contact-body header h1,.kariera-body header h1,.kariera-body header p,.partners-body header h1{text-align:center}.appky-body header h1,.apps-body header h1,.konverze-body header h1,.references-body header h1,.services-body header h1,.webs-body header h1{margin-bottom:0}.webs-body .graf.graf-services .item .text{width:131px;left:0}.offer{padding:60px 0}.offer h1{font-size:30px;font-weight:300;color:#FFF;margin-bottom:30px;line-height:1.1}.offer p{font-size:16px;font-weight:400;color:#7a829c;margin-bottom:25px}.offer .btn{display:inline-block;color:#FFF;border:1px solid #fff;font-size:22px;border-radius:999px;padding:17px 44px;line-height:1;font-weight:200}#next-0,#prev-0,.contact-body header form{display:none}header .circle.photo{border-color:transparent}.about-body header p{color:#fff;text-align:center}.kariera-body .kariera-main-info .first-foto{position:absolute;top:-180px;left:-32px}.kariera-body header p{font-size:28px;line-height:45px;font-weight:100;color:#fff}.contact{padding:98px 0 54px}.contact h1{color:#fff;font-size:32px;font-weight:300;margin-bottom:90px}.body-reference.adonis-index-reference .filter-header{background-color:#000}.body-reference.venus-index-reference .filter-header{background-color:#59B2DB}.body-reference.flo-fit-reference .filter-header{background-color:#012B54}.body-reference.thin-form-within-reference .filter-header{background-color:#21134B}.body-reference.hot-at-home-reference .filter-header{background-color:#520E12}.body-reference.ese-reference .filter-header{background-color:#50606B}.body-reference header h1{font-size:41px;text-align:center;line-height:1.618}.body-reference header .circle span{color:#FFF;line-height:126px;font-size:40px;font-weight:200}.body-reference header p{color:#FFF;max-width:125px;margin:10px auto}.case-study{background-color:#2d3551}.case-study span{color:#fff;font-weight:200}.case-study a{color:#fff}@media (max-width:479px){.case-study{padding:34px 0}.case-study span{font-size:21px;display:block}}</style>
+    {else}
+        <link rel="stylesheet" href="{$basePath}/css/custom.css">
+    {/if}
+
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <link rel="icon" type="image/png" sizes="96x96" href="{$basePath}/favicon/favicon-96x96.png">
+    <link rel="manifest" href="http://www.webvalley.cz/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{$basePath}/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="author" content="Webvalley">
+    <meta name="description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <meta name="keywords" content="webvalley, web, weby, webs, appky, apps, konverze, conversion, online">
+    <meta itemprop="name" content="WEBVALLEY - Vaše nápady přetváříme na ziskový online byznys">
+    <meta itemprop="description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <!-- Open Graph data -->
+    <meta property="og:title" content="WEBVALLEY - Vaše nápady přetváříme na ziskový online byznys">
+    <meta property="og:site_name" content="Webvalley">
+    <meta property="og:description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <meta property="og:url" content="http://www.webvalley.cz/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{$basePath}/favicon/favicon-96x96.png">
+    <!--FB-->
+    <meta property="fb:admins" content="webvalley">
+
+    <link rel="canonical" href="http://www.webvalley.cz">
+
+    <meta name="robots" content="index, follow">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	{block head}{/block}
+</head>
+
+<body class="{block bodyClass}{/block}">
+	<div n:foreach="$flashes as $flash" n:class="flash, $flash->type">{$flash->message}</div>
+
+    <header class="clearfix">
+        <div class="filter-header">
+            <input type="checkbox" id="main-navigation" class="display-none" />
+            <label for="main-navigation" class="full-page-close"></label>
+            <div class="bg-menu"></div>
+            <div class="container">
+                {block header}
+                    <div class="row">
+                        <div class="span-mini-8">
+                            <a class="main-logo" href="#"><img src="{$basePath}/images/wv-logo-white.svg" alt="Webvalley" width="195" height="71"></a>
+                            {control breadcrumb}
+                        </div>
+                        <div class="span-mini-16 static-small text-right static">
+                            <nav>
+                                {block active}{/block}
+                                <label for="main-navigation" class="label-navigation">
+                                    <span class="top"></span>
+                                    <span class="middle"></span>
+                                    <span class="bottom"></span>
+                                </label>
+                                <div class="main-navigation navbar">
+                                    <ul class="row">
+                                        <div class="span-small-8 first">
+                                            <li><a href="#">Weby</a></li>
+                                            <li><a href="#">Appky</a></li>
+                                            <li><a href="#">Konverze</a></li>
+                                        </div>
+                                        <div class="span-small-8 second">
+                                            <div class="inside">
+                                                <li><a href="#">Služby</a></li>
+                                                <li><a href="#">Reference</a></li>
+                                                <li><a href="#">O nás</a></li>
+                                            </div>
+                                        </div>
+                                        <div class="span-small-8 third">
+                                            <div class="inside">
+                                                <li><a href="#">Kariéra</a></li>
+                                                <li><a href="#">Partneři</a></li>
+                                                <li><a href="#">Kontakt</a></li>
+                                            </div>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                {/block}
+            </div>
+
+            <section>
+                <div class="container">
+                    {block jumbotron}{/block}
+                </div>
+                {block scroll}{/block}
+                <a class="go-down" id="go-down" href="#main-section"><i class="tiecons tiecons-arrow-simple-normal-down"></i></a>
+            </section>
+        </div>
+    </header>
+
+    <section id="main-section">
+        {block content}{/block}
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="span-medium-6">
+                    <a class="main-logo" href="#"><img src="{$basePath}/images/wv-logo-white.svg" alt="Webvalley" width="195"></a>
+                </div>
+                <div class="span-medium-18">
+                    <nav class="navbar">
+                        <ul>
+                            <li><a href="#">O nás</a></li>
+                            <li><a href="#">Kontakt</a></li>
+                            <li><a href="#">Kariéra</a></li>
+                            <li><a href="#">Partneři</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    {if $showCritical}
+        <script>
+            window.addEventListener("load", function() {
+                var cssFiles = ["custom.css"];
+
+                for(var i = 0; i < cssFiles.length;i++) {
+                    var l = document.createElement('link');
+                    l.rel = 'stylesheet';
+                    l.href = "{$basePath|noescape}/css/" + cssFiles[i];
+                    var h = document.getElementsByTagName('head')[0];
+                    h.appendChild(l);
+                }
+            });
+        </script>
+    {/if}
+
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://nette.github.io/resources/js/netteForms.min.js" async defer></script>
+    <script src="{$basePath}/js/main.js"></script>
+	{block scripts}{/block}
+</body>
+</html>

@@ -1,0 +1,7 @@
+<span n:if="count($items) > 0" n:inner-foreach="$items as $item" class="breadcrumb">
+	{if !$iterator->last}
+		<a href="{$item->link}" title="{$item->title}">{$item->name}</a> »
+	{else}
+		<span class="current">{$item->name}</span>
+	{/if}
+</span>

@@ -1,0 +1,67 @@
+jumbotron:
+    h1a: "Webvalley"
+    h1b: " dostane váš online byznys z údolí až na "
+    h1c: "vrchol"
+
+    gregor: "Naši klienti chtějí být jedničkou na trhu a právě to mě na Webvalley baví. Dělat s nejlepšími z nejlepších a vidět, jak naše práce pomáhá milionům jejich zákazníků po celém světě. Být u samotného zrodu. I proto máme tým, který maká na 110 %, aby klientům přinesl žádané výsledky."
+    vlcek: "Technologie dnes odlišuje nejlepší od dobrého. A je jedno, jestli máte 2 tisíce nebo 2 miliony zákazníků. Proto stavíme na nejlepších technologiích a osvědčených platformách, které vás v krizových momentech nezradí a váš byznys posunou na špici. Jedině pak se pod naše dílo podepíšu."
+    vavrecka: "Začínal jsem na .NET technologii a programoval s nezbořitelnou představou, že profesionální weby se dělají jen v tomto jazyce. Když jsem přišel do Webvalley, vývojáři mě rychle vyvedli z omylu. Velké věci nepotřebují velké jazyky. Právě naopak."
+    herrmann: "Každý den kouzlím s kódem. Mými triky jsou HTML5 a CSS3, protože s nimi postavím váš web na moderních a úsporných technologiích. A vyhnu se neohrabanému JavaScriptu, jak to jen jde. Jsem nonstop responzivní. A jsem rád, že se v týmu Webvalley pořád učím nové triky."
+    bohac: "Psát programový kód při vývoji klientského portálu je jako jezdit na kole. Čím víc máte najeto, tím rychleji dorazíte do cíle. Letos mám za sebou už 9850 km. A 253 tisíc řádků kódu. O to víc mě baví pracovat v týmu Webvalley. Neustále se totiž předháníme, kdo bude lepší"
+    otisk: "Navrhnout skvělý web není jen o velkých rozhodnutích, ale také o detailech, které ve výsledku zapadnou do fungujícího celku. Potřebujete dobrý nápad, zkušený tým a správný přístup. A hlavně musíte najít ideální vztah uživatelů k vašemu webu. Právě jeho hledání je mou prací i koníčkem."
+
+graph:
+    h1: "9 kroků, kterými vaše nápady měníme na ziskový byznys"
+    p: "Jak pracujeme? Snadné řízení, náročná technologie. Naše práce vám totiž musí přinést skvělé výsledky. Hned."
+
+    item1:
+        h2: "Zadání"
+        p: "Nasloucháme vašim nápadům, plánům a cílům projektu. A pak vám ukážeme, jak by mohla probíhat naše spolupráce."
+    item2:
+        h2: "Analýza"
+        p: "Sedneme ke stolu, přizveme naše analytiky a pustíme se do diskusí o všech alternativách, dostupných číslech a vašem byznysu."
+    item3:
+        h2: "Návrh"
+        p: "Představíme vám návrh řešení a přidáme i rozpočet s časovým plánem projektu. Když nám dáte zelenou, rovnou se pustíme do práce."
+    item4:
+        h2: "Design"
+        p: "UX tým navrhne prototyp webu nebo aplikace, otestuje na uživatelích a pustí k práci grafiky. Vzniká design a třeba i logo a firemní dokumenty."
+    item5:
+        h2: "Vývoj"
+        p: "Vývojáři naprogramují podle specifikace projektu, prototypu a grafiky plně funkční web nebo aplikaci."
+    item6:
+        h2: "Testování"
+        p: "Uživatelským testováním ověříme prototyp i hotový web nebo aplikaci. Odhalíme chyby a funkčnost přizpůsobíme budoucím uživatelům."
+    item7:
+        h2: "Nasazení"
+        p: "Hotový web nasazujeme na vlastní servery, mobilní aplikaci na App Store nebo Android Market."
+    item8:
+        h2: "A/B testování"
+        p: "Web nebo aplikaci pořád testujeme a optimalizujeme, abychom dlouhodobě zvyšovali konverze a zjednodušovali rozhraní."
+    item9:
+        h2: "Údržba"
+        p: "Staráme se o váš online projekt, jak to sám potřebuje. Udržujeme web, testujeme změny a optimalizujeme výkon serverů."
+
+people:
+    h1: "To nejcennější ve Webvalley jsou lidé...."
+    p: "Poznejte tým webařů, vývojářů a mistrů konverzí. Někteří jsou praví Ostraváci, jiní přirostli k matičce Praze, ale všechny jsme odkojili zkušenostmi na trhu v USA. Jedině tak vašemu projektu dají potřebný náskok před konkurencí."
+    h2: "Chceš mezi nás?"
+    h3: "NAPIŠ NÁM"
+
+load-more: "Ukaž další"
+
+hover:
+    vlcek: "Řízení tech oddělení je binární, Lukášovi to jde na 1."
+    vavrecka: "Řídí vývoj produktů a je v tom pekelně dobrý."
+    paschek: "Prodat se dá vše, ale kvalita se nesmí přehlížet!"
+    bohac: "PHP je láska na celý život."
+    otisk: "Každý pixel má své místo, které využívá na 110%."
+    urbis: "Programování systému pro miliony uživatelů je každodenní výzvou."
+    matejka: "Mobilní appky jsou jeho vášeň."
+
+
+technologie: "... a technologie, na které je spoleh."
+
+analyze:
+    span: "Chcete vidět spíš pořádná čísla?"
+    button: "Případové studie"

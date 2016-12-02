@@ -1,0 +1,66 @@
+jumbotron:
+    h1a: "Webvalley "
+    h1b: "will take your online business to the"
+    h1c: " top"
+
+    gregor: "Our clients want to be number one and that’s what I enjoy about Webvalley the most. We represent the best of the best, the top dogs of the industry and the ones who can handle the fame. There is a commonality they all share – they all want to deliver a better experience to their customers and become number one in their respective industries. That is why we have a team that works 110% to bring our clients results…It is truly an amazing experience to be a part of the birth of so many projects... not only that but also to work with the biggest industry influencers and see how our work is changing the lives of people all around the world through the websites we create for your clients."
+    vlcek: "Technology today distinguishes the good from the best. It doesn't matter if you have two thousand, or two million customers. That is why we build only on the best technologies and proven platforms that won’t let you down in critical moments as you move your business to the top position. Only then will we put our name on our work."
+    vavrecka: "I started on .NET technology and programmed with the unshakable idea that professional websites should only be made in this language. When I came to Webvalley, the developers quickly made me see the light. Great things don’t need to be built on complicated languages. Actually, it is quite the opposite."
+    herrmann: "Every day I make magic with code. My best tricks are in HTML5 and CSS3. With them I'll build your website on the most modern and cost effective technologies. I avoid clumsy JavaScript as much as possible and will answer your call 24/7. I am glad that as a part of the Webvalley team I can still learn new skills and thus deliver better results."
+    bohac: "To write code for a client is like riding a bicycle. The more kilometres you have behind you, the faster you get to the finish line. This year I've already done 9850 km and 253 thousand lines of code. This is why I enjoy working on the Webvalley team. We are constantly competing to see who is better…and we keep growing."
+    otisk: "Great website design is not just about big decisions, but about the details that will allow everything to fall into place in the end. You need a good idea, an experienced team and the right approach. Most importantly, you need to find the ideal relationship with your website’s users. My job is to represent the user and his needs when we design a new website. This quest is not only my work, but my hobby."
+
+graph:
+    h1: "9 steps that will turn your ideas into a profitable business"
+    p: "How do we work? Easy management, modern technology. Our work is aimed at delivering the best results - instantly."
+
+    item1:
+        h2: "The task"
+        p: "We listen to your ideas, plans and project objectives. Then we show you how we can work together to help your business."
+    item2:
+        h2: "The analysis"
+        p: "We sit down with our analysts and discuss all the options, your business, and run the numbers."
+    item3:
+        h2: "The proposal"
+        p: "We propose a solution, supply estimates for budget and timetable for the project. When you give us the go ahead, we get straight to work."
+    item4:
+        h2: "The design"
+        p: "The UX team will propose a website draft or application prototype, test it on real users and start working on the graphics. The design is also created and possibly the logo and templates for company documents."
+    item5:
+        h2: "The development"
+        p: "In accordance with the project specifications, prototype and graphics, the developers will put together a fully functional website or your new cloud application."
+    item6:
+        h2: "Testing"
+        p: "We user-test the prototype, as well as the finished website or app. We will find any errors and its functionality will be adapted to suit future users."
+    item7:
+        h2: "Deployment"
+        p: "The finished website is then deployed on our own servers, the mobile app is launched into App Store and Android Market."
+    item8:
+        h2: "A/B Testing"
+        p: "Our websites and apps are constantly tested and optimized to increase long-term conversion rates and interface simplification."
+    item9:
+        h2: "Maintenance"
+        p: "We will take care of maintenance of all your online and mobile projects on regular basis. We maintain your website and test any changes, while optimizing server performance."
+
+people:
+    h1: "The people are the most valuable asset at Webvalley..."
+    p: "Our web design teams, developers and masters of conversion come from The Hearth of Europe – Czech Republic, our experience and clients are a mixture of the top dogs from different European and American markets. Our goal is to combine our cutting edge experience from various markets from both continents to give your project the advantage over the competition."
+    h2: "Want to join us?"
+    h3: "CONTACT US"
+
+load-more: "Show more"
+
+hover:
+    vlcek: "Tech department's management is binary. luke is our number one."
+    vavrecka: "He manages product development and he's hellishly good at it."
+    paschek: "You can sell everything, but the quality cannot be ignored!"
+    bohac: "PHP is love for life."
+    otisk: "Each pixel has its place which he use for 110%."
+    urbis: "Developing systems for millions of users is a daily challenge."
+    matejka: "Mobile apps are his passion."
+
+technologie: "... and reliable technology"
+
+analyze:
+    span: "Would you prefer to see the real numbers?"
+    button: "Case studies"

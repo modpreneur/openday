@@ -1,0 +1,340 @@
+base:
+    menuHomepage: "Úvod"
+    menuServices: "Služby"
+    menuCaseStudies: "Reference"
+    menuAboutWebvalley: "O nás"
+    menuContact: "Kontakt"
+    menuCareer: "Kariéra"
+    menuPartners: "Partneři"
+    menuWebs: "Weby"
+    menuApps: "Appky"
+    menuConversion: "Konverze"
+
+    contactForm:
+        h2: "Změňte svůj nápad v ziskový byznys"
+        select1Label: "Potřebujeme"
+        select1Option1: "nový web"
+        select1Option2: "mobilní applikaci"
+        select1Option3: "zvýšit konverze"
+        select1Option4: "dlouhodobou spolupráci"
+
+        select2Label: "a čas nás tlačí do"
+        select2Option1: "1 měsíce"
+        select2Option2: "3 měsíců"
+        select2Option3: "6 měsíců"
+        select2Option4: "poklidného projektu"
+
+        select3Label: "a rozpočet máme"
+        select3Option1: "neomezený"
+        select3Option2: "přiměřený"
+        select3Option3: "napjatý"
+
+        emailLabel: "E-mail na mě je"
+        emailPlaceholder: "info@mujmail.cz"
+
+        phoneLabel: "nebo telefon"
+        phonePlaceholder: "+420"
+
+        button: "Odeslat zprávu"
+
+homepage:
+    jumbotronH1before: "Vaše nápady přetváříme na"
+    jumbotronH1in: "ziskový"
+    jumbotronH1after: "online byznys"
+
+    jumbotronItem1H2a: "Stavíme "
+    jumbotronItem1H2b: "weby"
+    jumbotronItem1P: "8,5 milionů za minulý měsíc. Tolik lidí navštívilo weby z naší dílny."
+    jumbotronItem2H2a: "Zvyšujeme "
+    jumbotronItem2H2b: "konverze"
+    jumbotronItem2P: "30 % prodejů. O tolik možná právě teď přicházíte. Změníme to."
+
+    jumbotronItem3H2a: "Vyvíjíme "
+    jumbotronItem3H2b: "appky"
+    jumbotronItem3P: "90 tisíc lidí používá mobilní aplikaci od Webvalley. Každý den."
+
+    caseStudySpan: "Jste na čísla? Máme jich víc!"
+    caseStudyLink: "Další případovky"
+
+    graphH2: "Vystoupejte z údolí až na vrchol byznysu"
+    graphP: "I malý projekt vám vydělá desítky tisíc měsíčně a větší klidně miliony. Začínali jsme v pár lidech, bez brandu a rovnou pro USA trh. Dali jsme dohromady skvělý tým a makali na 110 %, abychom klientům vydělávali peníze. Ať už jde o firmy s obratem desítek milionů dolarů ročně, známé osobnosti nebo začínající podnikatele, tohle nasazení nám zůstalo dodnes. Jsme Webvalley."
+    graphItem1: "let zkušeností z online trhu v USA"
+    graphItem2: "mistrů konverzí, grafiky a kódu v týmu"
+    graphItem3: "webových aplikací, které zvládnou miliony návštěv"
+    graphItem4: "milionu řádků kódu z klávesnic vývojářů"
+    graphItem5: "zvýšení konverzí během 3 měsíců"
+    graphItem6: "milionu návštěv na webech klientů za minulý měsíc"
+    graphItem7: "kritických chyb odchyceno uživatelským testováním"
+    graphItem8: "plnokrevných serverů ve stájích Webvalley"
+    graphItem9: "odražené megaútoky hackerů"
+
+    analyzeSpan: "Analyzovat umíme cokoli. I naše úspěchy."
+    analyzeLink: "Poznejte Webvalley"
+
+
+services:
+    default:
+        jumbotron:
+            h1before: "Stavíme weby, vyvíjíme aplikace a zvyšujeme "
+            h1in: "prodeje"
+
+            item1: "webových aplikací, které zvládnou miliony návštěv"
+            item2: "milionu řádků kódu z klávesnic vývojářů"
+            item3: "hodin reakční doba na vaše požadavky"
+            item4: "plnokrevných serverů ve stájích Webvalley"
+            item5: "mistrů konverzí, grafiky a kódu v týmu"
+
+        web:
+            h1: "Stavíme weby"
+            p: "8,5 milionu lidí navštívilo servery Webvalley klientů za poslední měsíc. Stavíme prodejní weby, online aplikace a portály, které ustojí i zátěž během Super Bowlu. Když to potřebujete. Obvykle začneme v malém, aby se vám investice do každé etapy hned vrátila."
+            button: "Chci web "
+
+        app:
+            h1: "Vyvíjíme mobilní aplikace"
+            p: "55 % online přístupů je dnes z mobilů a tabletů. Alespoň v USA. Připravte svou mobilní aplikaci, dokud máte pořádný náskok. Vyvíjíme appky pro Apple iOS i Google Android, které si už stáhlo 98 tisíc lidí a používají je možná radši než Facebook."
+            button: "Chci appku "
+
+        conversion:
+            h1: "Zvyšujeme konverze"
+            p: "30 % prodejů. O tolik možná teď přicházíte. Každý rok lidé na internetu utratí o 23 % peněz víc než loni a Webvalley z toho pro váš web nebo appku vytěží maximum. Testujeme a optimalizujeme dlouhodobě. Za 3 měsíce zvedneme konverzní poměr až o 35 %."
+            button: "Chci konverze "
+
+        motivation:
+            h1: "Jsme na dlouhé tratě s krátkými sprinty. Poběžíte s námi?"
+            p: "Kvalita potřebuje čas, ale stavět projekt třeba rok vás stojí hromadu času a dvoje peníze. Ty první jsou náklady. Ty druhé ušlý zisk, který vám už mohla odlehčená verze vydělávat. Proto váš projekt stavíme krok za krokem. Každá etapa se tak brzy zaplatí sama, nedochází k posunu termínů dodávek a váš byznys roste bez rizika."
+
+        meet:
+            h1: "Vidíme to stejně?"
+            p: "Pak máme společný cíl. A také cestu."
+            button: "Poznejte náš tým"
+
+    web:
+        jumbotron:
+            h1in: "80 % webů"
+            h1after: " selže. Ale váš ne. Když ho postaví Webvalley"
+
+            item1: "milionu návštěv měsíčně na webech klientů"
+            item2: "milionu řádků kódu z klávesnic vývojářů"
+            item3: "velkých web aplikací na míru"
+            item4: "hodin reakční doba na vaše požadavky"
+            item5: "mistrů konverzí, grafiky a kódu v týmu"
+
+        offer:
+            h1: "Stavíme prodejní weby, online aplikace a portály, které ustojí nápor milionů návštěv."
+            p: "Obvykle ale začneme v malém. Váš web pak roste postupně, aby se vám investice od každé etapy hned vrátila."
+            button: "Chci web od Webvalley"
+
+        products:
+            first:
+                h1: "Najdeme obchodní model, který vám vydělá peníze"
+                p: "Máte jasno, jak váš projekt monetizovat, aby vám vydělal co nejvíc? Nebo ještě hledáte ty správné cesty? Ukážeme vám, co se nám v online byznysu osvědčilo, probereme možnosti a společně vybereme nejlepší model."
+            second:
+                h1: "Odlišíme web designem, který vaši cílovku nadchne"
+                p: "Úprava grafiky zvedla konverzní poměr webu o 32%. Jak? Stačilo změnit pozadí, aby více ladilo s obsahem stránky. Grafický návrh webu je totiž první věc, kterou uživatelé vnímají. Ale než k práci pustíme grafiky, UX tým nakreslí prototyp a otestuje ho na uživatelích. A pak otestujeme i hotovou grafiku. Vám už předáme důvěryhodný a responzivní web."
+            third:
+                h1: "Připravíme video, které si uživatelé určitě pustí"
+                p: "Když jsme na jednom webu přidali video, konverze vzrostly o 30 %. Dobře udělané video vzbudí na vašem webu důvěru. A hlavně zvýší prodeje. Vytvoříme video, otestujeme a budeme ho optimalizovat, dokud vám nepřinese maximum objednávek."
+            fourth:
+                h1: "Naprogramujeme funkce a napojíme webové aplikace"
+                p: "Než se pustíme do projektu, probereme vaše cíle. A k nim připravíme infrastrukturu i technologii. Vývojářský tým má za sebou přes 3 miliony řádků kódu a díky vlastním frameworkům zkrátí dobu vývoje na minimum. Uživatelské sekce, chráněné soubory ke stažení nebo videa ke zhlédnutí, napojení na e-mailing, analytiku a bezpečné online platby. Cokoli váš projekt potřebuje."
+            fifth:
+                h1: "Testujeme, testujeme, testujeme"
+                p: "Co většina vývojářských agentur dělá okrajově, Webvalley bere jako základ. Dokáží lidé web ovládat, projdou až k odeslání objednávky, rozumí všemu? Uživatelské testování rychle odhalí chyby, které vás běžně stojí až 30 % prodejů. Samozřejmě testujeme i kvalitu kódu aplikace, rychlost načítání stránek a správné zobrazení ve všech prohlížečích a zařízeních."
+            sixth:
+                h1: "Nasadíme web na server a staráme se o něj"
+                p: "Máme pod správou více než třicítku serverů, které měsíčně obslouží 8,5 milionu návštěv. Kdykoli dojde ke zpomalení, výpadku nebo pokusu o hackerský útok, do 2 minut máme vše pod kontrolou. Nasadíme vaši aplikaci na server a pravidelně se staráme o její údržbu. Vaše požadavky řešíme do 24 hodin, takže starosti o bezproblémový chod nechte v klidu na nás."
+            seventh:
+                h1: "Poskytneme uživatelskou podporu vašim zákazníkům"
+                p: "U prodejních webů pomáhá k větším konverzím i online zákaznická podpora. Větším projektům s milionovou návštěvností obvykle vyčleníme tým, který poskytuje customer support vašim zákazníkům. Pravidelně tak řešíme jejich dotazy, technické potíže a požadavky. Vy se staráte o prodeje, my o technickou podporu."
+
+        analyze:
+            span: "Jak si vedou weby od Webvalley?"
+            br: "Čísel máme spoustu."
+            button: "Další případovky"
+
+        properties:
+            h1: "Jaký bude váš web, když ho postaví Webvalley?"
+            h2:
+                first: "Výdělečný"
+                second: "Bezpečný"
+                third: "Rychlý"
+                fourth: "Rozšiřitelný"
+                fifth: "Optimalizovaný na zátěž"
+            p:
+                first: "běží nonstop a plní cíle podle obchodního modelu. Dlouhodobým testováním a optimalizací vaše prodeje stoupají a stoupají."
+                second: "online platby, přihlášení, prémiový obsah i údaje uživatelů jsou v bezpečí a šifrované. Když aplikace běží na našich serverech, obstojí i před útoky hackerů."
+                third: "stojí na kvalitním kódu, aby se stránky načetly na všech zařízeních do 4 sekund. Jinak by vám z webu hned odešlo až 25 % návštěvníků. Vyzkoušeno za vás."
+                fourth: "stojí na vývojářském frameworku, který web neomezuje v dalším růstu, postupném přidávání funkcí a úpravách na míru. Jinak by rychle zastaral."
+                fifth: "ustojí zájem i několika milionů uživatelů za měsíc. A klidně víc, když to potřebujete. Při startu projektu zbytečné, za rok dva nezbytné."
+            button: "Chci přesně takový web!"
+
+        fullService:
+            h1: "A nemusíme zůstat jen u webu"
+            pTop: "Vaše nápady měníme na ziskový online byznys. K tomu vám poskytneme technologie i full service, takže web může být jen začátek."
+            h2:
+                first: "Mobilní appky"
+                second: "Konverze"
+            p:
+                first: "55 % online přístupů je dnes z mobilních zařízení. Alespoň v USA. Připravte se na iOS a Android uživatele včas."
+                second: "Právě teď možná přicházíte o 30 % prodejů. Pravidelně testujeme a zvyšujeme obchodní výkon webu i aplikací."
+
+        motivation:
+            h1: "Weby musí vydělávat a ne chytat prach ve vitríně"
+            p: "Neděláme weby na koukání. Ani na příčky webdesignerských soutěží. Stavíme je tak, aby dosahovaly co nejvyšších konverzních výsledků a vytáhly vaši značku z šedi veškeré konkurence. A že je přehledný design webu stejně důležitý jako jeho obsah, uvidíte na výsledcích testování i vyšší míře konverzí. Protože o prodeje jde u webu především."
+
+        meet:
+            p: "Jaký je v tom fígl? My používáme 9 kroků…"
+            button: "Poznejte náš tým"
+
+    app:
+        jumbotron:
+            h1in: "55 % přístupů"
+            h1after: " je z tabletů a mobilů. Potřebujete aplikaci?"
+
+            item1: "tisíc stažení aplikací od Webvalley"
+            item2: "tisíc uživatelů měsíčně v jedné z appek"
+            item3: "platformy vývoje: iOS i Android"
+            item4: "vývojářů aplikací, grafiků a UXáků"
+            item5: "hodin reakční doba na vaše požadavky"
+
+        offer:
+            h1: "Děláme mobilní aplikace, které lidé používají častěji než Facebook"
+            p: "Jdeme na to ale postupně, aby se vám investice hned vrátila. Vývoj vaší aplikace startuje právě teď."
+            button: "Chci appku od Webvalley"
+
+        products:
+            first:
+                h1: "Jak je na tom obchodní model vaší appky?"
+                p: "Máte nápad, ale tápete, jak z něj vytěžit zisk? Probereme způsoby monetizace vaší mobilní aplikace. Freemium, měsíční paušál, premium membership? Poradíme se, jak vám získat maximum uživatelů a zároveň platících zákazníků. A podle toho naplánujeme etapy vývoje a budoucího rozvoje appky."
+            second:
+                h1: "Navrhujeme appku, kterou bude radost ovládat"
+                p: "Otevřít, ťuknout, zavřít. Používat mobilní aplikaci je buď utrpení nebo radost. UX tým z Webvalley navrhuje ty druhé. Pak mají uživatelé appku v ruce každý den, chlubí se s ní přátelům a ochotně za ni zaplatí. Projdeme si, k čemu aplikace bude, jak ji má uživatel používat a navrhneme rozhraní, ve kterém se neztratí."
+            third:
+                h1: "Hezká aplikace oči i prsty přitáhne"
+                p: "Podle našich zkušeností si až 30 % uživatelů vybírá v App Storu podle toho, která aplikace se jim nejvíc líbí. A samozřejmě i podle recenzí a ceny. UX tým navrhne použitelnou appku, ale do sexy kabátku ji oblečou až grafici. Aplikace upoutá pozornost, zalíbí se oku a vyskočí z šedi těch ostatních."
+            fourth:
+                h1: "Programujeme aplikaci pro Apple i Android zařízení"
+                p: "Appku rozhýbe tým vývojářů. Po 3 milionech řádků kódu už jim to jde rychle a hlavně ji zoptimalizují. Aby šetřila baterku, vzala si jen minimum procesoru i paměti a v bezpečnosti se vyrovnala e-bankovnictví. Vývoj mobilních aplikací má smysl pro iOS, Android a případně vsadíme na HTML5 cross-platform."
+            fifth:
+                h1: "Aplikaci testujeme technicky i na uživatelích"
+                p: "Testeři nedají aplikaci pokoj, dokud neběhá jako maratonec na vrcholu kariéry. Jde o každý MHz procesoru, každý MB paměti. A nejen to. Appku testujeme na uživatelích a sledujeme, jak ji vylepšit. Používá se lidem snadno? Tuší, kam a proč ťuknout? Zvládnou nastavit a vyplnit, co je třeba? Takhle odhalíme chyby, které před vypuštěním aplikace hned vyřešíme."
+            sixth:
+                h1: "Čas nasadit, prodávat a pravidelně udržovat"
+                p: "Máme hotovo? Nahráváme mobilní aplikaci do App Storu nebo Android Marketu a připravujeme se na pravidelnou údržbu a rozvoj appky. Aktualizace, rozšíření o nové funkce, další optimalizace aplikace. Tohle všechno za vás vyřeší Webvalley."
+
+        analyze:
+            span: "Aplikujme pár čísel."
+            br: "Trhají appky od Webvalley rekordy?"
+            button: "Další případovky"
+
+        properties:
+            h1: "Jaká bude vaše appka, když ji vyrobí Webvalley?"
+            h2:
+                first: "Světová"
+                second: "Úsporná"
+                third: "Rychlá"
+                fourth: "Rozšiřitelná"
+                fifth: "Bezpečná"
+            p:
+                first: "nadchne uživatele, ale neztratí se ani ve světě. Aplikaci propůjčíme naše zkušenosti z USA trhu, aby mluvila jazykem vašich zákazníků a trefila se do jejich lokálních zvyků."
+                second: "bere si z mobilu nebo tabletu jen tolik, kolik potřebuje. Ani trochu navíc. To poslední, co vaši uživatelé chtějí, je zasekat si mobilní zařízení nenasytnou aplikací."
+                third: "hned naběhne, reaguje svižně a nezdržuje nekonečným načítáním. To zvládne jen kvalitní kód a vyladěné servery, se kterými aplikace komunikuje."
+                fourth: "vydrží klidně 10 let. To neznamená, že se nebude vyvíjet. Naopak. Dobře napsané aplikaci můžeme snadno přidávat funkce a neustále ji vylepšovat."
+                fifth: "obstojí i před útoky hackerů. Mobilní aplikace, napojení na online platby i naše servery. Data uživatelů, prémiový obsah a citlivé údaje budou v bezpečí."
+            button: "Chci přesně takovovou appku!"
+
+        fullService:
+            h1: "A nemusíme zůstat jen u mobilní aplikace"
+            pTop: "Potřebujete k nové aplikaci i prodejní web? A co appku nebo web pravidelně testovat a optimalizovat, abyste z nich vytěžili maximum konverzí?"
+            h2:
+                first: "Weby"
+                second: "Konverze"
+            p:
+                first: "80 % webů selže. Ale váš ne, když ho postaví Webvalley. Nestavíme weby na výstavy, ale aby vám vydělávaly."
+                second: "Právě teď možná přicházíte o 30 % prodejů. Pravidelně testujeme a zvyšujeme obchodní výkon webu i aplikací."
+
+        motivation:
+            h1: "Jedna věc je appku vyvinout, druhá na ní vydělat"
+            p: "Chodí k nám klienti se skvělými nápady na mobilní aplikaci. Spousta funkcí a vychytávek. Vyvinout to najednou by ale sežralo moc času i rozpočtu a vaší aplikaci by mezitím ujel konkurenční vlak. Radši postavíme stabilní a fungující základ, přidáme svěží design a otestujeme na uživatelích. Hotovou aplikaci pak rozšiřujeme a každou úpravu testujeme. Jedině tak na appce vyděláte."
+
+        meet:
+            p1: "Mantinely trhu jsou občas tvrdé."
+            p2: "Víme, jak se jim vyhnout."
+            button: "Poznejte Webvalley"
+
+    conversion:
+        jumbotron:
+            h1in: "30 % prodejů."
+            h1after: " O tolik možná teď přicházíte. Změníme to"
+
+            item1: "průměrné zvýšení konverzí za 3 měsíce"
+            item2: "trafficu obvykle posíláme do A/B testů"
+            item3: "kritických chyb odhaleno při testování"
+            item4: "hodin reakční doba na vaše požadavky"
+            item5: "nárůst vracejících se uživatelů"
+
+        offer:
+            h1: "Analyzujeme, testujeme a optimalizujeme weby i mobilní aplikace"
+            p: "Každý rok lidé na internetu utratí o 23 % víc než loni. Vytěžíme z toho pro váš web nebo appku maximum."
+            button: "Chci zvýšit prodeje"
+
+        products:
+            first:
+                h1: "Analyzujeme chování uživatelů"
+                p: "67,45% prodejů obvykle skončí jediný krok před potvrzením objednávky. Co uživatelé na webu nebo v aplikaci dělají, kam a proč klikají, kudy stránky prochází a kde utečou? Zjistíme, proč přicházíte o konverze. Používáme nástroje na trackování pohybu, heatmapy i pokročilé analytické nástroje. Chcete-li, zpřístupníme vám analytiku v jediném přehledném nástroji."
+            second:
+                h1: "Testujeme na uživatelích"
+                p: "Uživatelským testováním jsme na webech odchytili už 12 kritických chyb, kterých byste si jinak nevšimli. Vyznají se lidé ve struktuře, vědí, kam mají kliknout, kam se dostanou, rozumí obsahu? Je pro ně vaše prodejní nabídka důvěryhodná nebo něco postrádá? Weby i aplikace testujeme na uživatelích už při návrhu a pak podle potřeby i během provozu."
+            third:
+                h1: "Ověřujeme varianty A/B testováním"
+                p: "Pouhá změna tlačítka zhoršila konverze o 30%. Naopak grafická úprava pozadí stránky zvýšila míru konverze o 32%. U jednoho webu dokonce na mobilu přinášela víc konverzí desktop verze. Proto každou úpravu ověřujeme A/B nebo multivariantním testováním a to vždy na maximálně 50 % návštěvnosti, aby vás případná změna k horšímu dočasně nestála moc konverzí."
+            fourth:
+                h1: "Optimalizujeme nejen prodejní výkon"
+                p: "80 % webů selhává kvůli špatné navigaci, malé návštěvnosti nebo nedůvěryhodnému obsahu. A 25 % uživatelů hned odchází, když se stránka nenačte do 4 sekund. Optimalizujeme weby i aplikace, aby se rychleji načítaly, lépe ovládaly a více vydělávaly. Každou změnu ověříme testováním. A když na to přijde, dáme vám technologii, která utáhne i návštěvnost během Super Bowlu."
+            fifth:
+                h1: "Potřebujete audit?"
+                p: "Jak je na tom vaše aplikace s bezpečností? A co web? Zastarává technologie, naráží na své limity, jaké problémy uživatelé mají? Než se pustíme do optimalizace a testování, může se hodit podrobný audit. A podle výsledku se třeba rozhodnete pro vývoj nového řešení a velký skok kupředu."
+
+        analyze:
+            span: "Běžně se nám daří zvednout konverze"
+            br: " o 35 % za 3 měsíce."
+            button: "Další případovky"
+
+        properties:
+            h1: "Co vám přinese testování a optimalizace s Webvalley?"
+            h2:
+                first: "Více prodejů"
+                second: "Menší míra opuštění"
+                third: "Ověřené změny"
+                fourth: "Rychlejší návratnost"
+                fifth: "Lepší zabezpečení"
+            p:
+                first: "dejte nám čas a dlouhodobým testováním zvedneme konverzní poměr. U optimalizovaného webu klidně o 15 %, u běžných webů jsou to i desítky procent."
+                second: "zjistíme, proč máte vysoký bounce rate, a snížíme ho. Uživatelé už nebudou utíkat pryč, ale projdou si více stránek, abyste měli větší šanci přesvědčit je ke konverzi."
+                third: "všechno, co na webu nebo aplikaci upravíme, pořádně otestujeme. Každá trvalá změna je tak ověřeným krokem vpřed, abyste získali více objednávek a spokojenější uživatele."
+                fourth: "stavět mega projekt a čekat rok, než vám začne vydělávat, je riskantní podnik. Začneme menším základem, aby vám začal hned vydělávat, a postupně ho rozšiřujeme a testujeme."
+                fifth: "online platby, data uživatelů i prémiový obsah bude jako v trezoru. Po auditu vaší aplikace a serveru zabezpečíme data i jejich přenos, aby váš byznys už nic neohrozilo."
+            button: "Chci více konverzí"
+
+        fullService:
+            h1: "A nemusí zůstat jen u konverzí"
+            pTop: "Možná už váš web nebo aplikace narazily na své limity. Možná by stačila nová landing page, salesletter nebo přejít na výkonnější server. Propojíme vaše nápady s naší technologií v ziskový online byznys."
+            h2:
+                first: "Weby"
+                second: "Mobilní aplikace"
+            p:
+                first: "80 % webů selže. Ale váš ne, když ho postaví Webvalley. Nestavíme weby na výstavy, ale aby vám vydělávaly."
+                second: "55 % online přístupů je dnes z mobilních zařízení. Alespoň v USA. Připravte se na iOS a Android uživatele včas."
+
+        motivation:
+            h1: "Chcete více konverzí? Tak to máme společný cíl"
+            p: "Většina klientů chce zvýšit konverze s tím, že včera bylo pozdě. Jenže optimalizaci předchází testování a hlavně analytika. Postaráme se o dlouhodobý růst konverzí s nejpokročilejšími nástroji a A/B testováním každou změnu ověříme. Říká se, že 10 % investic v analytice jde do nástrojů, 90 % do lidí. Jen odborník vyhodnotí data správně a odhalí ono důležité PROČ."
+
+        meet:
+            p: "Online byznys je plný mýtů. "
+            br: "Co je společně vyvrátit? "
+            button: "Poznejte Webvalley"
+
+partners:
+    h1: "Partneři"
+    p: "Tento projekt je podporován Moravskoslezským krajem."

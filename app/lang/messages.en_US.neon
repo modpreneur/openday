@@ -1,0 +1,341 @@
+base:
+    menuHomepage: "Home"
+    menuServices: "Services"
+    menuCaseStudies: "Case Studies"
+    menuAboutWebvalley: "About Us"
+    menuContact: "Contact"
+    menuCareer: "Career"
+    menuPartners: "Partners"
+    menuWebs: "Webs"
+    menuApps: "Apps"
+    menuConversion: "Conversion"
+
+    contactForm:
+        h2: "Turn your idea into a profitable business"
+        select1Label: "We need"
+        select1Option1: "new website"
+        select1Option2: "mobile application"
+        select1Option3: "increased conversion rates"
+        select1Option4: "something special"
+
+        select2Label: "and time pushes us into"
+        select2Option1: "1 month"
+        select2Option2: "3 months"
+        select2Option3: "6 months"
+        select2Option4: "contained project"
+
+        select3Label: "and our budget is"
+        select3Option1: "unlimited"
+        select3Option2: "adequate"
+        select3Option3: "tight"
+
+        emailLabel: "My e-mail address is"
+        emailPlaceholder: "info@mymail.com"
+
+        phoneLabel: "or telephone"
+        phonePlaceholder: "00421"
+
+        button: "Send a message"
+
+
+homepage:
+    jumbotronH1before: "Your ideas will be converted into a"
+    jumbotronH1in: "profitable"
+    jumbotronH1after: "online business"
+
+    jumbotronItem1H2a: "We build "
+    jumbotronItem1H2b: "websites"
+    jumbotronItem1P: "8.5 million just last month. That is how many people visited our websites."
+    jumbotronItem2H2a: "We increase "
+    jumbotronItem2H2b: "conversions"
+    jumbotronItem2P: "30% of potential sales. That’s how much you might be losing right now. We can change that."
+
+    jumbotronItem3H2a: "We develop "
+    jumbotronItem3H2b: "apps"
+    jumbotronItem3P: "90,000. That’s how many people have used a Webvalley mobile app."
+
+    caseStudySpan: "Do you like numbers? We have more!"
+    caseStudyLink: "More case studies"
+
+    graphH2: "Take your business to the top"
+    graphP: "Even a small project can earn you tens of thousands each month, a larger one might make millions. We started as a team of just a few people, without any big company backing us, and right in the USA! We put together a great team and worked 110%, to make money for our clients. Whether it's a company with a turnover of tens of millions of dollars a year, well known personalities or aspiring entrepreneurs, our enthusiasm has stayed with us. We are the Webvalley team."
+    graphItem1: "years of online market experience in the USA"
+    graphItem2: "masters of conversion, graphics and code on our team"
+    graphItem3: "web applications that handle millions of visits"
+    graphItem4: "million lines of code from the keyboards of our developers"
+    graphItem5: "biggest increase of conversion rates in 3 months"
+    graphItem6: "million visits to the client websites in the last month"
+    graphItem7: "critical errors intercepted through user testing"
+    graphItem8: "thoroughbred servers in the Webvalley stables"
+    graphItem9: "deflected mega attacks by hackers"
+
+    analyzeSpan: "We can analyze anything. Even our own achievements."
+    analyzeLink: "Discover Webvalley"
+
+
+services:
+    default:
+        jumbotron:
+            h1before: "We build websites, we develop applications and increase "
+            h1in: "sales"
+
+            item1: "web applications that handle millions of visits"
+            item2: "million lines of code from the keyboards of our developers"
+            item3: "hour response time"
+            item4: "thoroughbred servers in the Webvalley stables"
+            item5: "masters of conversion, graphics and code on our team"
+
+        web:
+            h1: "We build websites"
+            p: "8.5 million people visited Webvalley client sites hosted on our servers over the past month. We build sales websites, online applications and portals that can handle Super Bowl online traffic loads – if that is what you need. Usually we start small, so the return on your investment is immediate."
+            button: "I want a website "
+
+        app:
+            h1: "We develop mobile applications"
+            p: "55% of all online traffic today is generated from mobile devices. At least in the USA. Tune up your mobile application while you have a head start. We develop apps for Apple, iOS and Google Android, with 98,000 thousand downloads to date. People use them maybe more than Facebook."
+            button: "I want an app "
+
+        conversion:
+            h1: "We increase conversions"
+            p: "30% of potential sales. That’s how much you might be losing right now. Every year, people spend 23% more online than the previous year and Webvalley can take advantage of this for your website or app. We test and optimize for the long term. In three months we can raise your conversion rate by up to 35%."
+            button: "I want conversions "
+
+        motivation:
+            h1: "We train for the long race with short sprints in between. Will you run with us?"
+            p: "Quality needs time, but working on a project for a year or so, without any cash flow prior the product launch will cost you a lot of time and double the money. The former is the cost, the latter is lost profit which you could have made with the minimum viable product (the light version). Which is why we break your project into milestones, so each step pays for itself. Thus there will be no shift in terms of supply delivery and your business grows without any risk involved."
+
+        meet:
+            h1: "Are we looking at it the same way?"
+            p: "Well then, we have a common goal and path!"
+            button: "Discover Webvalley"
+
+    web:
+        jumbotron:
+            h1in: "80% of websites"
+            h1after: " fail. But yours will not if Webvalley builds it"
+
+            item1: "million hits per month on our client websites"
+            item2: "million lines of code from the keyboards of our developers"
+            item3: "large custom-built web applications"
+            item4: "hour response time"
+            item5: "masters of conversion, graphics and code on our team"
+
+        offer:
+            h1: "We build sales websites, online applications and portals that can handle the pressure of millions of users each month."
+            p: "Usually, we start small. Your website then grows gradually so your investment at each stage shows a return straightaway."
+            button: "I want a web site from Webvalley"
+
+        products:
+            first:
+                h1: "We will find a business model that will make you money"
+                p: "Do you have a clear idea how to monetize your project to its full earning potential? Are you looking in the right direction? We'll share with you what we have learned about online business, discuss your options and together select the best monetization model."
+            second:
+                h1: "We will make your website stand out with a design that your target group will fall in love with"
+                p: "Editing graphics can increase website conversion rate by as much as 32%. How come? It may only be necessary to change something as simple as the background to be more in tune with the content of the page. The design of the site is the first thing that users notice. But before we go to work, our graphics and UX teams will draft a prototype and test it on real users first. Then we will test it with the final graphics. We will provide you with a credible and responsive website."
+            third:
+                h1: "We can create video that engages users"
+                p: "When we added video to one site, the conversion rate increased by more than 30% compared to the static sales page. A well made video will make users trust your site. Most importantly - it will increase sales. We will create the video, test and optimize it to yield maximum sales for you."
+            fourth:
+                h1: "We will link programmed features to web applications"
+                p: "Before we start the project we'll discuss your goals. We will prepare the infrastructure and the technology. Our development team has over 3 million lines of code under its belt and thanks to oue own framework, development time is cut to a minimum. Premium user sections, protected download files, videos, newsletter campaigns linked to your continuity programs, in-depth analytics or secure online payments. Anything your project needs."
+            fifth:
+                h1: "We run, test, and test some more"
+                p: "What most web developer companies produce as a final product, Webvalley uses as a starting point. Are your users able to control the site, do they follow through with making an order, do they understand everything? User testing quickly detects errors that may cost you up to 30% of potential sales. Of course, we also test the quality of the application code, the speed pages load and if the site displays correctly on all browsers and devices."
+            sixth:
+                h1: "We will put it on our server and maintain it"
+                p: "We have more than thirty servers at our disposal, serving 8.5 million visitors each month. Whenever there is a slowdown, outage or attempted attack, we have everything under control within two minutes. We deploy your application on our server and maintain it. We guarantee to handle your requests within 24 hours (usually takes less than 8 hours actually), so we put your mind at ease by making sure your site runs smoothly. And if your website goes down we know it within 2 minutes, so it can get fixed asap."
+            seventh:
+                h1: "We provide user support for your customers"
+                p: "Sales site conversions also greatly benefit from online customer support. Larger projects with millions of visits are usually assigned their own team who will provide customer support to your customers. This enables us to respond to their questions, technical problems and demands as required. You take care of the sales coming from your funnels, we will handle the frustrations of your clients."
+
+        analyze:
+            span: "How do Webvalley websites perform?"
+            br: "We have the numbers for you."
+            button: "More case studies"
+
+        properties:
+            h1: "What will your Webvalley website look like?"
+            h2:
+                first: "Profitable"
+                second: "Secure"
+                third: "Fast"
+                fourth: "Expandable"
+                fifth: "Optimized to handle traffic"
+            p:
+                first: "it will run non-stop and fulfill the objectives of your business model. By means of long-term testing and optimization, your sales will continue to grow."
+                second: "online payments, login, premium content and user data are safe and encrypted. When an application is running on our servers, it is protected from hacker attacks."
+                third: "quality code enables pages to load on all devices within 4 seconds. Otherwise, your site could lose up to 25% of its visitors. We test this for you."
+                fourth: "your website is based on a development framework, which does not limit further upgrades, expansion, or the gradual addition of features and customization. Otherwise, it would quickly become out-of-date."
+                fifth: "it can handle several million users per month or more if that’s what you need. At the start of the project this may not be needed, but you need to plan out for future expansion right from the start."
+            button: "I want a website like this!"
+
+        fullService:
+            h1: "We don’t stop at just your website"
+            pTop: "Your ideas will be turned into a profitable online business. To achieve this, we will provide you with technology and full service - but your site may be just the beginning."
+            h2:
+                first: "Mobile applications"
+                second: "Conversions"
+            p:
+                first: "55% of online visits today are made on mobile devices. At least in the USA (this trend is catching on with users all around the world!). So be prepared for iOS and Android users."
+                second: "Right now you might be losing 30% of potential sales. We regularly test and increase the commercial performance of your site, as well as the applications."
+
+        motivation:
+            h1: "Websites must make money or they get old and dusty"
+            p: "We do not make websites just to be looked at, or to win web design competitions. We build them to achieve the maximum possible conversion rate and to make your brand stick out from the competition. Web design is as important as its content and will be judged by the results of testing and increased conversions. Because sales and customers are what websites are all about."
+
+        meet:
+            p: "What's the trick? We use nine steps…"
+            button: "Discover Webvalley"
+
+    app:
+        jumbotron:
+            h1in: "55% of visits"
+            h1after: " are made with tablets and mobile phones. Do you need an application?"
+
+            item1: "application downloads from Webvalley"
+            item2: "users a month from one application"
+            item3: "development platforms: iOS and Android"
+            item4: "professional team members"
+            item5: "hour response time"
+
+        offer:
+            h1: "We make mobile applications that people use more often than Facebook"
+            p: "But we go about it step by step so you get your investment back immediately. The development of your application starts now."
+            button: "I want an app from Webvalley"
+
+        products:
+            first:
+                h1: "What is the business model of your app?"
+                p: "Do you have an idea but are unsure how to make it profitable? We'll discuss ways of monetizing your mobile application. Freemium, monthly fee, or a premium membership? We will advise you how to get the most users and paying customers at the same time. We will plan all stages of development."
+            second:
+                h1: "We will design an app that will be enjoyable to use"
+                p: "Open, click and close. Using a mobile application is either frustrating or enjoyable. Webvalley’s UX team designs the latter. Once users have the app in their hands every day, bragging about it to their friends, they will be willing to pay for it. Let's go over the purpose of your application, how it will be used, and design a user interface that won’t get lost in the crowd."
+            third:
+                h1: "A pretty app will attract the eyes – and the fingers"
+                p: "In our experience up to 30% of users select an app in the App Store according to how it looks. Of course, the reviews and price also factor in. Our UX team will design the functionality of the app, but the eye candy will be the work of our graphic designers. The application will attract attention, catch the eye and stand out from all the rest."
+            fourth:
+                h1: "We will program your application for Apple as well as Android devices"
+                p: "Our team of developers will bring your app to life. After millions lines of code, we work fast. We will optimize it to save battery life, use minimum CPU power and memory, with the security of e-banking. Development of iOS, Android applications makes sense for your business and possibly we can implement an HTML5 cross-platform for you as well."
+            fifth:
+                h1: "Application will be tested both technically and on end-users"
+                p: "Our testers will not leave it alone until it runs as fast as a marathon medalist at the peak of his career. Every MHz from the CPU, every MB of memory counts here. In addition, the app is tested on users and we track any opportunity for improvement. Is it easy to use? Is it intuitive? Can they easily set it up and complete what is needed? That's how we uncover errors that will be corrected prior to the release of the application."
+            sixth:
+                h1: "Time to release, sell and regularly maintenance"
+                p: "Are we finished? We upload the mobile application to the App Store or Android Market and set up a regular maintenance and upgrade schedule. Webvalley will take care of future updates, new features, further optimization and other upgrades to the application."
+
+        analyze:
+            span: "We will give you a couple of new numbers."
+            br: "Have Webvalley apps set records?"
+            button: "More case studies "
+
+        properties:
+            h1: "What will your Webvalley-produced app look like?"
+            h2:
+                first: "First rate"
+                second: "Energy-saving"
+                third: "Fast"
+                fourth: "Expandable"
+                fifth: "Secure"
+            p:
+                first: "it will thrill users and won’t get lost in the world of thousands of other apps. The application will profit from our experience in the US market and speak the language of your customers, while adapting to their local customs."
+                second: "only using as much energy from a mobile device as it actually needs. No more. The last thing your users want is to tie-up their mobile device with an insatiable application."
+                third: "it launches instantly and reacts immediately, never slowing down while it loads. This can only be handled with quality code and fine-tuned servers with which the application interacts."
+                fourth: "has a life of up to 10 years. This does not mean that it will not be upgraded. On the contrary. Well written applications can be easily enhanced with new features and continually improved."
+                fifth: "protected from hacker attacks. The mobile application, connection to online payments and our servers. Data users, premium content, and sensitive information will all be secure."
+            button: "I want this app!"
+
+        fullService:
+            h1: "We don't only create mobile applications"
+            pTop: "Do you need a sales webpage linked to your new app? What about testing the app regularly and optimizing it to achieve the maximum website conversion rate?"
+            h2:
+                first: "Web sites"
+                second: "Conversions"
+            p:
+                first: "80% of websites fail. But yours won’t if Webvalley builds it. We don’t build websites just to be looked at on the internet, but to make money for our clients."
+                second: "Right now you might be losing 30% of your potential sales. We regularly test and increase the commercial performance of the site as well as the applications."
+
+        motivation:
+            h1: "It’s one thing to develop an app, it’s quite another to make money with it"
+            p: "We get many clients who have great ideas for mobile applications. Many features and improvements. But to develop it all at once would take a lot of time, eating away their budget. Meanwhile the competition will overtake it. We'd rather build a stable and workable base, add a fresh design and test it on actual users. The finished application is then upgraded and each enhancement tested first. That is the only way to make money from an app."
+
+        meet:
+            p1: "Market constraints are sometimes difficult."
+            p2: "We know how to deal with them."
+            button: "Discover Webvalley"
+
+    conversion:
+        jumbotron:
+            h1in: "30% of potential sales."
+            h1after: " That’s how much you could be losing. We can change that"
+
+            item1: "The average conversion rate increase in 3 months"
+            item2: "of traffic is usually sent to A/B tests"
+            item3: "critical errors found through testing"
+            item4: "hour response time"
+            item5: "million users returned to the website after their first abandonment of the site"
+
+        offer:
+            h1: "We analyze, test and optimize websites and mobile applications"
+            p: "Every year, people spend 23% more money on the internet than the previous year. We will take full advantage of this for your website or mobile app."
+            button: "I want to increase my sales"
+
+        products:
+            first:
+                h1: "We analyze user behaviour"
+                p: "67.45% of potential sales usually end one step before order confirmation. What do users on your website or an application do, where and why do they click, how do they navigate the pages and where do they go? We will find out why you are missing out on conversions. We use motion-tracking tools, heatmaps and advanced analytical tools. If you’d like, we will present you with the analysis in one convenient tool."
+            second:
+                h1: "We employ user testing"
+                p: "By utilizing user testing we have tracked down 102 critical errors which you may have otherwise missed. Do your visitors understand the layout, do they know where to click, where will they navigate to, do they understand the content? Are your sales items trusted or is there something lacking? Websites and applications are user tested early on, when creating the actual design and then as necessary during operation."
+            third:
+                h1: "We're checking all the options with A/B testing"
+                p: "A mere change of a button can decrease conversion by 30%. On the other hand, editing the background of the page can increase the conversion rate by 32%. One website even brought more conversions than its desktop version. Therefore, we check each change with A/B testing, or multi-option testing on at least 50% of the traffic so that any decrease will not cost you conversions."
+            fourth:
+                h1: "We optimize not only sales performance"
+                p: "80% of websites fail due to bad navigation, low traffic or untrusted content, while 25% of users leave if the page does not load within four seconds. We optimize websites and applications to load faster, be easily manageable and bring you more profit. Every change is tested. When it comes to that, we provide you with technology that can handle Super Bowl traffic loads."
+            fifth:
+                h1: "Do you need an audit?"
+                p: "How is your application’s security? And what about the web? Do you have outdated technology that is reaching its limits? What are the problems encountered by your users? Before we fine-tune and test, a detailed audit might be in order. According to the result, you might decide on the development of a new solution and a giant leap ahead for your business."
+
+        analyze:
+            span: "Normally, we shoot to increase the overall"
+            br: " conversion rate by at least 35% within 3 months."
+            button: "More case studies"
+
+        properties:
+            h1: "What will Webvalley testing and optimization do for you?"
+            h2:
+                first: "Increased sales"
+                second: "Decreased rate of abandonment"
+                third: "Verified modifications"
+                fourth: "Faster returns"
+                fifth: "Better security"
+            p:
+                first: "give us time and through long-term testing we will raise your conversion rate. For an optimized website this might mean 15%, for other sites maybe more than 30%, it all depends on your traffic and current strategy among other key factors."
+                second: "we will find out why a high percentage of visitors leave your site and will reduce this number. Users will no longer leave but will navigate through more pages, so you have a greater chance that they will convert."
+                third: "everything we change on your website or application will be pretested. Any permanent change will then will be tried and tested to get more orders and more satisfied users."
+                fourth: "to build a mega project and wait a year for it to start earning is risky business. We start with a smaller platform so you can start earning money right away, then gradually expand and test."
+                fifth: "online payments, user data, as well as premium content will be as secure as a bank vault. After the audit of your application and the server, we secure the data and its transfer so that there is no possible threat to your business."
+            button: "I want more conversions!"
+
+        fullService:
+            h1: "We don’t stop at conversions"
+            pTop: "Perhaps your website or application has already reached its limits. Maybe a new landing page, sales letter and a more powerful server is in order. We'll link your ideas with our technology to create a profitable online business for you."
+            h2:
+                first: "Websites"
+                second: "Mobile applications"
+            p:
+                first: "80% of websites fail. But yours won’t if Webvalley builds it. We don’t build websites just to be looked at on the internet, but to make money for our clients."
+                second: "55% of online use today is with mobile devices. At least in the USA. Be prepared for iOS and Android users."
+
+        motivation:
+            h1: "Do you want more conversions? Well then, we have a common goal!"
+            p: "Most of our clients want to increase conversions knowing that yesterday may already be too late. But testing and especially analysis precedes optimization. We take care of long-term conversion growth with the most advanced tools and A/B testing of each modification. It has been said that 10% of investment in analytics goes to the tools, 90% into the people. Only an expert can evaluate the data correctly to reveal the all-important WHY."
+
+        meet:
+            p: "Online business is full of myths."
+            br: " Let’s disprove them together."
+            button: "Discover Webvalley"
+
+partners:
+    h1: "Partners"
+    p: "This project is supported by Moravian-Silesian region."

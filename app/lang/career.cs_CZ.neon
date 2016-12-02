@@ -1,0 +1,52 @@
+jumbotron:
+    h1a: "Je pro tebe "
+    h1b: "Webvalley"
+    h1c: " správná volba?"
+    p: "Myslíš dnem i nocí na breakpointy při ladění skriptu, přes víkend spíchneš z dlouhé chvíle mobilní appku nebo v digitálu kreslíš lépe než Picasso? Chceme o tobě vědět!"
+
+mainInfo:
+    h2a: "Poznej nás blíž – jsme Webvalley."
+    pa: "Vyvíjíme webové a mobilní aplikace a také cloudová řešení pro podnikatele. Mnoho našich klientů je z USA, což nás žene dopředu – americký trh je dravý."
+    h2b: "Koho hledáme?"
+    p1: "Především kodéry a programátory, ale jistě najdeme "
+    p2: "místo i pro jiné kreativní, samostatné "
+    p3: "a zajímavé lidi."
+
+information:
+    h1a: "Kodér"
+    h2a: "Co od Tebe chceme?"
+    lia1: "dobrou angličtinu"
+    lia2: "opravdový zájem o nové technologie"
+    lia3: "znalost: HTML, CSS, JS"
+    lia4: "hodí se: LESS, GIT"
+    lia5: "touhu jít vpřed a změnit svět"
+
+    h1b: "Programátor"
+    h2b: "Co od Tebe chceme?"
+    lib1: "dobrou angličtinu"
+    lib2: "opravdový zájem o nové technologie"
+    lib3: "znalost: OOP, PHP, MySQL"
+    lib4: "hodí se: Symfony, Doctrine, GIT, Docker"
+    lib5: "touhu jít vpřed a změnit svět"
+
+offer:
+    h1: "Tady je naše nabídka"
+    li1: "práce v Ostravě nebo Brně"
+    li2: "forma práce HPP, DPP"
+    li3: "mzda s bonusy, které si zasloužíš"
+    li4: "my tě povedeme vpřed profesně, ty nám pomůžeš budovat business"
+    li5: "zisk kontaktů, know-how, sebejistoty"
+    li6: "prima kolektiv mladých lidí"
+
+form:
+    h2: "Ozvi se, dáme hlavy dohromady a třeba se pro tebe najde ve Webvalley to pravé místo :)"
+    select:
+        span: "Mám zájem o pozici"
+        o1: "programátor"
+        o2: "kodér"
+        o3: "jiná"
+    mail: "E-mail na mě je"
+    mailP: "info@mujmail.cz"
+    phone: "nebo telefon"
+    phoneP: "+420"
+    submit: "Odeslat zprávu"

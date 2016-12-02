@@ -1,0 +1,242 @@
+jumbotron:
+    h1a: "Webvalley za sebe nechává mluvit"
+    h1b: "výsledky"
+    h1dot: "."
+    h1c: "A čísla, hlavně čísla"
+
+    item1: "případových studií s konkrétními čísly"
+    item2: "prodejních a klientských webů za sebou"
+    item3: "mobilní aplikace a 100 tisíc stažení"
+    item4: "zvýšení konverzí za 3 měsíce"
+    item5: "chyb odhaleno uživatelským testováním"
+
+references:
+    adonis:
+        item1: "tisíc uživatelů"
+        item2: "větší konverze"
+        item3: "návštěvníků zakoupilo další produkt"
+    ese:
+        h2: "Eat Stop Eat radí 1 den v týdnu půst, Webvalley jede nonstop"
+    ff:
+        h2: "Co mají společného Webvalley a rapper Flo Rida? Projekt FLO FIT!"
+    hah:
+        h2: "I když je Hot at Home spíš na doma, web potřeboval profesionální"
+    venus:
+        item1: "tisíc spokojených uživatelů"
+        item2: "A/B testů měsíčně"
+        item3: "tisíc uživatelů mobilní aplikace"
+    tfw:
+        h2: "Thin From Within zlepšuje lidem vitalitu, Webvalley mu zlepšuje konverze"
+
+    testimonials: "A co na výsledné míry říká klient?"
+
+adonis:
+    jumbotron:
+        h1before: "Adonis zvedá o "
+        h1in: "30 % více"
+        h1after: ". Nové UX, design a testování posílily konverze o ⅓"
+
+        item1: "tisíc spokojených uživatelů"
+        item2: "větší konverze"
+        item3: "návštěvníků zakoupilo další produkt"
+
+    section1: "Adonis Index patří mezi největší fitness online firmy. Mužům z celého světa pomáhá získat perfektní postavu pomocí programů a plánů na hubnutí nebo budování svalové hmoty."
+    section2: "A co se skrývá za jejich úspěchem? Ideální matematická formule, kterou za roky výzkumu objevili John Barban a Brad Pilon."
+    section3: "Z práce těchto špiček v oboru vychází většina dnes dostupných programů a doplňků."
+
+    aboutProject: "Když Webvalley dostalo projekt Adonisu na starost, měl web hotovou klientskou část i prodejní stránky, ale vše bylo postavené na jednoduché OptimizePress šabloně. V té době šlo o průměrný blog s velkou vizí. Jenže web nebyl připravený na vysokou návštěvnost, trpěl slabinami v zabezpečení a nešlo ho moc rozšiřovat. Vyvinuli jsme proto nové stránky s unikátní grafikou, naprogramovali technologii a přesunuli web na vlastní servery. Díky téhle změně technologie můžeme na každý problém reagovat do 2 minut."
+
+    giveServices:
+        h1Top: "Webvalley tým si na Adonisu slušně máknul"
+        h2:
+            a: "Optimalizace stránek"
+            b: "Zabezpečení klientské části"
+            c: "Online platba One Click Buy"
+            d: "Design"
+            e: "A/B Testování (Spli Testing)"
+            f: "Mobilní aplikace"
+            g: "Zvyšování konverze"
+            h: "Serverové řešení"
+            i: "Zrychlení databáze"
+        p:
+            a: "Napsali jsme statisíce řádků kódu a ten původní úplně překopali (tzv. refaktorizace zdrojového kódu). Zmenšili jsme všechny ilustrace. Výsledkem je až 5× rychlejší načítání stránek."
+            b: "Z klientské části jsme udělali nedobytnou pevnost, takže ke každému online produktu se dostane jen uživatel, který si ho zakoupil."
+            c: "Platební platforma Clickbank je nejrozšířenější v USA. Naprogramovali jsme ve spolupráci s Clickbank řešení, kdy už zákazník nemusí zadat ani kreditní kartu. Jen klikne a rovnou nakoupí."
+            d: "Připravili jsme novou grafiku prodejních webů a pak i klientské části. Design jsme testovali na uživatelích a po nasazení dál experimentujeme se změnami z pohledu vlivu na konverze."
+            e: "Navrhujeme a testujeme stále nové prvky, abychom změnami v grafice zvyšovali konverze webu. Zkoušíme různé barvy u nákupního tlačítka, loga, fotky atd."
+            f: "Navrhli jsme a vyvinuli mobilní aplikaci na platformě Android a iOS. Appku už si stáhlo a používá 200 tisíc uživatelů."
+            g: "Dosáhli jsme 30% nárustu konverzí oproti původní verzi webu a to kombinací One Click Buy a A/B testování. Na dlouhodobém zvyšování konverzního poměru neustále pracujeme."
+            h: "Vysoká návštěvnost v řádech milionů uživatelů měsíčně zahlcovala server. Aplikovali jsme tedy load balancing infrastrukturu, která zátěž rozděluje mezi více serverů."
+            i: "Používané CRM zpomalovalo běh aplikace. Upravili jsme vnitřní indexy a složité SQL dotazy v databázi a CRM i celá aplikace opět běží jako o závod."
+        h1Bottom: "Potrénovat s Webvalley chtěly i další projekty"
+
+
+eatStopEat:
+    jumbotron:
+        h1: "Eat Stop Eat radí 1 den v týdnu půst, Webvalley jede nonstop"
+
+    section1: "Eat Stop Eat v podobě knihy spustila celosvětový boom o využití půstu při hubnutí."
+    section2: "Projekt Eat Stop Eat pomáhá lidem překonat pomalý průběh formování postavy a urychlit ho pomocí půstu. Hubnoucí program v základu znamená, že člověk drží jednou týdně 24hodinový půst."
+    section3: "I když to zní jednoduše, stojí za tím roky výzkumu a desítky ověřených publikací Brada Pilona, který je autoritou v oboru."
+
+    aboutProject: "Brad svěřil svůj projekt týmu Webvalley, když už měl hotové prodejní stránky. Vyvinuli jsme celou klientskou část s unikátní grafikou, zabezpečili ji a projekt hostujeme na vlastních serverech s load balancingovou infrastrukturou. To nám umožňuje pohodlně zvládat i návštěvnost v řádu milionů, chránit data i servery před hackery a na každý potenciální problém reagovat do 2 minut. Na projektu dál pracujeme, každou změnu testujeme a cílem je pro nás i klienta zvyšování konverzního poměru webu."
+
+    giveServices:
+        h1Top: "Webvalley si na projektu půst rozhodně nedopřává"
+        h2:
+            a: "Optimalizace stránek"
+            b: "Zabezpečení klientské části"
+            c: "Online platba One Click Buy"
+            d: "Design"
+            e: "A/B Testování (Split Testing)"
+            f: "Zvyšování konverze"
+            g: "Serverové řešení"
+        p:
+            a: "Vývojářům zabralo 150 tisíc řádků kódu, než dokončili kompletní klientskou část webu. Je teď bleskově rychlá na načítání, dokonale zabezpečená a uživatelé v ní mohou nakupovat produkty jedním kliknutím."
+            b: "Ke každému online produktu se dostane jen uživatel, který si ho řádně zakoupil. Podobný obsah je často obtížné zabezpečit, aby se k němu nedalo dostat jinými cestami nebo si ho lidé mezi sebou nesdíleli. Tomu jsme předešli."
+            c: "Nejrozšířenější platební platformou v USA je Clickbank. Ve spolupráci s nimi jsme vyvinuli jednoduchou online platbu, kdy uživatel jen klikne a rovnou si zakoupí produkt. Nemusí pokaždé zadávat číslo karty nebo vyplňovat své údaje."
+            d: "Velkou změnou, která je vidět na první pohled, má na svědomí UX tým a naši grafici. Uživatelé klientské sekce mají všechno přehledně po ruce, na webu se vyznají a působí na ně důvěryhodně. Návrhy jsme samozřejmě testovali."
+            e: "UX tým sesbírá přání uživatelů, navrhne koncept webu a grafici připraví design. Tím to ale nesmí skončit. Neustále vymýšlíme změny a každou z nich pustíme do A/B testu. Jiné barvy tlačítek, fotky, loga atd."
+            f: "24 hodin denně, 7 dní v týdnu, 365 dní v roce. Takový je náš plán při zvyšování konverzí na webu a prodejů v klientské části. Přispívá k tomu A/B testování, One Click Buy metoda a samozřejmě grafická vylepšení."
+            g: "Po zkušenostech s podobně zaměřenými projekty škálujeme technologii na velký traffic v řádu milionů uživatelů měsíčně. Vlastní servery a load balancing architektura je pro nás zárukou, že web nikdy nezpomalí."
+        h1Bottom: "Na Webvalley dietu přešly i další projekty"
+
+
+floFit:
+    jumbotron:
+        h1before: "Co mají společného Webvalley a rapper Flo Rida? "
+        h1in: "Projekt FLO FIT!"
+
+    section1: "Tváří projektu FLO FIT je americký zpěvák a rapper "
+    section1Span: "Flo Rida."
+    section2: "Rapper sám tvrdě pracuje na své postavě a FLO FIT lidem umožňuje najet na jeho způsob intenzivního cvičení, aby se dostali rychle do formy."
+    section3: "Forma výuky probíhá přes profesionální streamování videí jak ve webové aplikaci, tak i v mobilních aplikací pro Android a iOS."
+
+    aboutProject: "Webvalley dělá na FLO FITu už od začátku. Mohli jsme tak tvořit od pořádných základů, škálovat technologii podle náporu uživatelů a připravit projekt na budoucí rozšíření. Mobilní aplikace, ve kterých si uživatelé pouští výuková videa a plní své tréninkové programy, vznikly také v rukou našich vývojářů. Prodejní stránky i klientskou část stavíme od nuly a vycházíme z výzkumu i požadavků klienta. Řešíme nový design, programování klientské části a samozřejmě testujeme, abychom zvyšovali konverze webu."
+
+    giveServices:
+        h1Top: "Webvalley tým se FloFitu věnuje… intenzivně!"
+        h2:
+            a: "Vývoj webové aplikace"
+            b: "Optimalizace stránek"
+            c: "Zabezpečení klientské části"
+            d: "Online platba One Click Buy"
+            e: "Design"
+            f: "A/B Testování (Split Testing)"
+            g: "Mobilní aplikace"
+            h: "Zvyšování konverze"
+        p:
+            a: "Postavili jsme od základu prodejní weby, celou klientskou sekci i mobilní aplikace. A pracujeme i na rychlém streamování výukových videí. Vývojáři ze sebe dostali 200 tisíc řádků kódu a stálo to za to."
+            b: "FloFit počítá s návštěvností v řádu milionů lidí měsíčně a obrovskou náročností při streamování videí. Napsat programový kód by nestačilo. Mákli jsme i na odladění každého dotazu, načítání grafiky a rychlost odezvy."
+            c: "Aby se k online produktům a videím dostali jen uživatelé, kteří se je řádně koupili, je často bezpečnostní oříšek. Zabezpečili jsme klientskou sekci, přihlašování uživatelů i samotný online nákup nejlepší technologií."
+            d: "Už dříve jsme si ověřili, jaký vliv na konverze má zjednodušení online nákupu. Naprogramovali jsme platební metodu na jedno kliknutí, kdy uživatel nemusí ani zadávat kartu. Využíváme v USA nejrozšířenější platformu Clickbank."
+            e: "UX tým a grafici si dali na návrzích záležet. Klient dodal vlastní výzkum, takže mohli stavět na tvrdých datech a ušetřený čas věnovat více návrhům a designování. Unikátní grafiku dostal web, klientská část i mobilní aplikace."
+            f: "Dlouhodobě a pravidelně testujeme každou změnu, kterou na webu chceme nasadit. Přes A/B test tak ověřujeme vliv na konverze při změně grafiky, tlačítek, fotek, textů a čehokoli dalšího. Až po otestování nasadíme změnu natrvalo."
+            g: "Důležitou součástí projektu jsou mobilní appky pro iOS i Android. Vytvořili je naši vývojáři od prvních návrhů až po funkční verzi, kterou uživatelé používají k přehrávání výukových videí a plnění svého tréninkového programu."
+            h: "Hlavní úkol pro Webvalley, navíc dlouhodobý, je postupné zvyšování konverzí. Zavedli jsme One Click Buy platbu, nasadili důvěryhodnou grafiku a přidali mobilní aplikace. Ale hlavně chrlíme stále nové nápady, které A/B testujeme."
+        h1Bottom: "Intenzivnější výsledky potřebovaly i další projekty"
+
+
+hotAtHome:
+    jumbotron:
+        h1: "I když je Hot at Home spíš na doma, web potřeboval profesionální"
+
+    section1: "Jackie se kvůli své nadváze na sebe nemohla ani podívat do zrcadla, chtěla zhubnout, ale přitom nenáviděla posilovnu."
+    section2: "Jednou si uvědomila, že jednoduché pohyby se pro ni mění cviky a postupně sestavila program domácího cvičení. Dnes má postavu, jakou si vždy přála."
+    section3: "Tak vznikl projekt Hot at Home, který pomáhá lidem získat svou vysněnou postavu, přestože stejně jako Jackie nenávidí tělocvičny."
+
+    aboutProject: "Webvalley se projektu ujalo v době, kdy byl web postavený na Wordpressu a obsahoval několik set stránek. Jejich obsah jsme museli zachovat a převést do nového webu. Přepsali jsme spoustu kódu, postavili novou klientskou sekci a přizpůsobili stránky i mobilním zařízením. Hlavním naším úkolem je teď dlouhodobě zvyšovat konverzní potenciál projektu."
+
+    giveServices:
+        h1Top: "Webvalley tým se do projektu pustil naplno"
+        h2:
+            a: "Zabezpečení klientské části"
+            b: "Online platba One Click Buy"
+            c: "Design"
+            d: "A/B Testování (Split Testing)"
+            e: "Mobilní aplikace"
+            f: "Zvyšování konverze"
+            g: "Migrace starých dat"
+        p:
+            a: "Hlavní byznys projektu stojí na prodeji online produktů. Přístup k nim i celou klientskou část jsme zabezpečili tak, aby se k nim dostali jen zákazníci, kteří si produkty zakoupili. Jinými cestami už to díky zabezpečení nejde."
+            b: "Do klientské části jsme vyvinuli online platební metodu One Click Buy a to ve spolupráci s Citibank, což je nejrozšířenější platební platforma v USA. Uživatel jen klikne a rovnou si koupí produkt. Nemusí už nic zadávat."
+            c: "Tým grafiků a jejich kolegů z UX oddělení dodal projektu nové rozhraní, design a všechno otestoval na uživatelích. Vyladili jsme tak podobu webu i klientské části a postupně navrhujeme změny, které vždy nejdříve testujeme."
+            d: "Změna barvy tlačítka, jiné fotky nebo nový způsob platby může mít velký vliv na konverze webu. Dlouhodobě zkoušíme měnit, ubírat i přidávat prvky a každou změnu posíláme do A/B testu, než ji trvale nasadíme."
+            e: "Kromě responzivního webu jsme navrhli, naprogramovali a otestovali mobilní aplikaci na iOS i Android. Uživatelé tak mají svůj program cvičení vždycky po ruce i v mobilu. Nic je pak v jejich soustředění neruší."
+            f: "Hlavním úkolem Webvalley je dlouhodobě zvyšovat konverzní poměr webu i prodejů dalších produktů v klientské části aplikace. Používáme k tomu A/B testování, úpravy grafiky a hodně pomohlo nasazení One Click Buy metody."
+            g: "Původní web byl postavený na Wordpressu a obsahoval stovky stránek hodnotného obsahu, který jsme museli zachovat. Naprogramovali jsme skripty a staré šablony automaticky převedly do nového designu a frameworku."
+        h1Bottom: "Webvalley přineslo lepší výsledky i dalším projektům"
+
+
+venusIndex:
+    jumbotron:
+        h1before: "Venus za svých "
+        h1in: "700 tisíc uživatelů"
+        h1after: " ročně vděčí píli a týmu Webvalley"
+
+        item1: "tisíc uživatelů"
+        item2: "A/B testů měsíčně"
+        item3: "tisíc uživatelů mobilní aplikace"
+
+    section1: "Venus Index plní sny milionům žen na celém světě."
+    section2: "Díky hubnoucím plánům dosáhnou perfektní figury a to bez drastických diet, nereálných cílů nebo dokonce nebezpečných přípravků."
+    section3: "Budování ideální postavy vychází z dlouholetého výzkumu Johna Barbana a Brada Pilona, kteří jsou autoritou a špičkou v tomto oboru. Většina dnešních programů a doplňků je založena právě na jejich výzkumu."
+
+    aboutProject: "Po zkušenostech s projektem Adonisu jsme novou verzi webu Venus stavěli od začátku tak, aby využíval sílu moderních technologií, byl škálovatelný na zátěž milionů návštěv měsíčně a v dalších letech se dal snadno rozšiřovat. Web je nakonec 20x rozsáhlejší než Adonis a každý měsíc ho navštíví přes 3 miliony nových uživatelů. Hostování projektu a dohled nad vlastními servery nám umožňuje garantovat dostupnost a okamžitý zásah v případě i toho nejmenšího zakolísání techniky."
+
+    testimonial:
+            p: "Its good to refresh things in your mind, plus the new updates manual and trackers are great. I enjoyed looking at the site on different platforms. From the computer, my phone app (android smart phone), to my Ipad mini...each version of Venus was fresh to the eyes and really easy to navigate as well as sleek and stylish. Great job programmers and designers, and all the backdoor people at venus who keep this site running."
+
+    giveServices:
+        h1Top: "Jak se Webvalley týmu podařilo dostat Venus do formy?"
+        h2:
+            a: "Optimalizace stránek"
+            b: "Zabezpečení klientské části"
+            c: "Online platba One Click Buy"
+            d: "Design"
+            e: "A/B Testování (Split Testing)"
+            f: "Mobilní aplikace"
+            g: "Zvyšování konverze"
+            h: "Serverové řešení"
+            i: "Zrychlení databáze"
+        p:
+            a: "Přepsali jsme kód původního webu, naprogramovali stovky tisíc řádků a zmenšili datovou velikost všech ilustrací a grafiky, aby se stránky načítaly rychleji."
+            b: "Vyvinuli jsme klientskou část webu tak, aby se ke každému online produktu dostal jen zákazník, který si ho koupil. Obvykle se k takovému typu obsahu dá dostat i jinými oklikami, ale my jsme všechny tyto cesty zabezpečili."
+            c: "Clickbank je nejrozšířenější platformou v USA a my jsme ve spolupráci s nimi naprogramovali platební metodu, při které zákazník nemusí zadat ani číslo karty. Jen v klientské části klikne a tím si produkt hned koupí."
+            d: "Tým grafiků připravil komplet návrh prodejních webů Venusu a následně i celé klientské části. Nové UX a design znatelně zvýšily konverzní poměr."
+            e: "Novým designem práce grafiků neskončila. Neustále navrhujeme nové prvky a testujeme jejich vliv na konverze. Ověřujeme tak pomocí A/B testování různé barvy nákupního tlačítka, loga, fotky atd."
+            f: "Jako alternativu k webové klientské části jsme postavili mobilní aplikaci pro iOS i Android. Od návrhu přes grafiku až po funkční aplikaci, kterou si stáhlo už téměř 90 tisíc uživatelů."
+            g: "Zvedli jsme konverze o 30 % a to v porovnání s původní verzí, na které jsme začali dělat. Nejvyššího zvýšení konverzí dosahujeme kombinací platební metody One Click Buy a A/B testováním."
+            h: "Návštěvnost v řádu milionů uživatelů měsíčně zahlcovala server, a protože jsme od začátku stavěli škálovatelné řešení, nasadili jsme na serverech load balancing. Ten rozděluje zátěž rovnoměrně mezi více serverů."
+            i: "Kromě zatížení serveru návštěvností jsme museli řešit problém zastaralé databáze v CRM aplikaci, která je napojená na klientskou část webu. Zoptimalizovali jsme indexy i složité SQL dotazy a aplikaci už nic nebrzdí."
+        h1Bottom: "Další projekty, které dosáhly svých cílů s Webvalley"
+
+
+thinFromWithin:
+    jumbotron:
+        h1before: "Thin From Within zlepšuje lidem vitalitu, Webvalley mu "
+        h1in: "zlepšuje konverze"
+
+    section1: "Thin From Within pomáhá svým uživatelům najet na zdravý životní styl..."
+    section2: "...správné stravování pro lepší sportovní výkon i rychlé hubnutí a celkově spokojený život plný vitality."
+    section3: "Hubnoucí plány zakládá na výzkumu o zdravých a nezdravých bakteriích v žaludku, ale i přínosech probiotik a různých potravin. Za výzkumem stojí John Barban, Brad Pilon a další špičky z oboru."
+
+    aboutProject: "Webvalley dostalo projekt pod svá křídla, když měl prodejní stránky i klientskou část hotovou. Obě části ale narážely na své limity, konverze si naopak držely rezervy a velké cíle klienta přerostly tehdejší technologii. Pustili jsme se do přepracování a už od začátku jsme novou verzi stavěli tak, aby se dala škálovat na řádově milionovou návštěvnost měsíčně. A abychom mohli cokoli snadno měnit, rozšiřovat web a zvyšovat konverze testováním. Hodily se nám k tomu zkušenosti z předchozích projektů Adonis a Venus."
+
+    giveServices:
+        h1Top: "Jak se Webvalley tým sžil s Thin From Within?"
+        h2:
+            a: "Optimalizace stránek"
+            b: "Zabezpečení klientské části"
+            c: "Online platba One Click Buy"
+            d: "Design"
+            e: "A/B Testování (Split Testing)"
+            f: "Zvyšování konverze"
+        p:
+            a: "Refaktorizací kódu jsme časem přepsali celý původní kód a na klávesnicích našich vývojářů vzniklo 100 tisíc řádků, které zrychlily načítání stránek na minimum. K tomu jsme i zmenšili datovou velikost všech ilustrací a grafiky."
+            b: "Obvykle online produkty trpí tím, že se k nim dá dostat různými cestami i bez legálního zakoupení. Zabezpečili jsme klientskou část tak, že ke každému produktu se dostane jen uživatel, který si ho zakoupil."
+            c: "Clickbank je nejrozšířenější platební platformou v USA. Ve spolupráci s Clickbankem jsme naprogramovali online nákup produktů na jediné kliknutí. Uživatel nemusí ani zadávat číslo karty. Jen klikne a koupí produkt."
+            d: "UX tým a grafici se pustili do nového designu prodejních webů i klientské části pro registrované uživatele. Modernější vzhled i prostředí výrazně přispělo ke zvýšení konverzí celého webu."
+            e: "Skončit novým designem by projekt stálo konverze. Pravidelně navrhujeme a testujeme kombinaci nových prvků a jejich vliv na konverzní poměr. Ladíme barvy nákupních tlačítek, fotky, loga a každou změnu proženeme A/B testem."
+            f: "Postupně jsme zvedli konverze o 30 % v porovnání s původní verzí webu. Největší vliv na konverze mělo zavedení One Click Buy platby, nový design a hlavně postupné A/B testování."
+        h1Bottom: "Oživit svou vitalitu potřebovaly i další projekty"

@@ -1,0 +1,62 @@
+jumbotron:
+    h1before: "Jeden malý klik pro vás, "
+    h1in: "velký skok"
+    h1after: " pro naši spolupráci"
+
+contact:
+    h1: "Volejte, pište. Na příjmu jsme stále"
+    pbefore: "Volejte nejlépe v pracovní dny mezi 8. a 17. hod. Děkujeme."
+    pafter: "Pro nonstop podporu použijte kontakty z SLA smlouvy."
+    button: "Webvalley tým"
+    h3a: "Jednatel a CTO"
+    h3b: "Jednatel a CEO"
+    email: "jsme@webvalley.cz"
+
+headOffice:
+    ostrava:
+        h1: "Centrála Webvalley v Ostravě"
+        first:
+            h3: "Adresa kanceláře"
+        second:
+            h3: "Kudy k nám"
+            li1: "Bílá budova, 4. patro, západní křídlo"
+            li2: "Parkování aut ve dvoře"
+            li3: "MHD tramvaje č. 2, 3, 12 (zastávky Pohraniční a Mírové Náměstí)"
+        third:
+            h3: "Kontakty na pobočku"
+            li4: "Na příjmu: Po–Pá, 8–17 hod."
+        fourth:
+            h3: "Zodpovědná osoba"
+    brno:
+        h1: "Centrála Webvalley v Brně"
+        first:
+            h3: "Adresa kanceláře"
+            li1: " "
+        second:
+            h3: "Kudy k nám"
+            li1: "Budova KAMENA, po vstupu doprava"
+            li2: "Parkování přímo v areálu"
+            li3: "Tramvaje č. 2, 5 (zastávky Ústřední hřbitov - smyčka a Bohunická)"
+            li4: "MHD autobus č. 50 (zastávka Traťová)"
+        third:
+            h3: "Kontakty na pobočku"
+            li4: "Na příjmu: Po–Pá, 8–17 hod."
+        fourth:
+            h3: "Zodpovědná osoba"
+
+billingInformation:
+    h1: "Fakturační údaje"
+    ul1:
+        li4: "IČ 29448531"
+        li5: "DIČ CZ 29448531 (jsme plátci DPH)"
+    ul2:
+        li1: "Bankovní spojení CZK:"
+    ul3:
+        li1: "Bankovní spojení USD:"
+        li4: "kod"
+    p: "Společnost je zapsána v obchodním rejstříku u Krajského soudu v Ostravě pod spisovou značkou C 58262."
+
+recruitment:
+    h1: "Chceš posílit tým Webvalley?"
+    p: "Myslíš dnem i nocí na breakpointy při ladění skriptu, přes víkend spíchneš z dlouhé chvíle mobilní appku nebo v digitálu kreslíš lépe než Picasso? Chceme o tobě vědět! Ozvi se, dáme hlavy dohromady a třeba se pro tebe najde ve Webvalley místečko."
+    button: "Odstartuj svou kariéru"

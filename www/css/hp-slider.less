@@ -1,0 +1,115 @@
+.slider {
+  .bxslider-filter {
+    li {
+      height: 610px;
+      &:nth-of-type(even) {
+        img {
+          position: absolute;
+          top: 0;
+          right: 0;
+          max-width: none;
+        }
+      }
+    }
+  }
+  .bxslider {
+    h1 {
+      font-size: 31px;
+      font-weight: 200;
+    }
+    li {
+      padding: 120px 0 90px;
+      .img-devices {
+        position: absolute;
+        bottom: -25px;
+        right: 0;
+      }
+    }
+    .agr-slide {
+      h1 {
+        color: #faca01;
+      }
+      .circle-1 {
+        .circle {
+          background-color: #faca01;
+          span {
+            color: #283544;
+          }
+        }
+      }
+      .circle-2 {
+        .circle {
+          background-color: #5e6c7c;
+          span {
+            color: #FFFFFF;
+          }
+        }
+      }
+      .circle-3 {
+        .circle {
+          background-color: #FFFFFF;
+          span {
+            color: #5e6c7c;
+          }
+        }
+      }
+    }
+    .circle-box {
+      margin: 70px 0;
+      .circle-item {
+        display: inline-block;
+        position: relative;
+        width: 140px;
+        >span {
+          color: #FFFFFF;
+          font-size: 13px;
+          font-weight: 200;
+          display: block;
+          max-width: 124px;
+          text-align: center;
+          position: absolute;
+          bottom: -40px;
+          min-height: 42px;
+        }
+      }
+      .circle {
+        display: inline-block;
+        width: 124px;
+        height: 124px;
+        border-radius: 80px;
+        position: relative;
+        span {
+          font-size: 35px;
+          white-space: nowrap;
+          font-weight: 400;
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          -webkit-transform: translateY(-50%) translateX(-50%);
+          -ms-transform: translateY(-50%) translateX(-50%);
+          transform: translateY(-50%) translateX(-50%);
+        }
+      }
+    }
+    .button-slider {
+      background-color: transparent;
+      border: 1px solid #fff;
+      color: #fff;
+      border-radius: 100px;
+      padding: 6px 34px;
+      font-size: 20px;
+      font-weight: 200;
+      i {
+        font-size: 39px;
+        vertical-align: middle;
+        margin-left: 9px;
+      }
+    }
+  }
+}
+.bx-viewport {
+
+}
+#next-0, #prev-0 {
+  display: none;
+}

@@ -1,0 +1,62 @@
+jumbotron:
+    h1before: "One small click for you, "
+    h1in: "one giant leap"
+    h1after: " for your business"
+
+contact:
+    h1: "Contact us, we are here for you"
+    pbefore: "Call us Mon-Fri, 8 a.m. – 5 p.m."
+    pafter: "For nonstop support, use contacts from the SLA contract."
+    button: "Webvalley team"
+    h3a: "CTO"
+    h3b: "CEO"
+    email: "we@webvalley.cz"
+
+headOffice:
+    ostrava:
+        h1: "Webvalley headquarters in Ostrava"
+        first:
+            h3: "Office address"
+        second:
+            h3: "How to find us"
+            li1: "White building, 4th floor, west wing"
+            li2: "Parking available in front"
+            li3: "PUBLIC TRANSPORT tram no. 2, 3, 12 (stop Pohraniční and Mírové Náměstí)"
+        third:
+            h3: "Branch contacts"
+            li4: "Office hours: Mon-Fri, 8 a.m. - 5 p.m."
+        fourth:
+            h3: "Responsible person"
+    brno:
+        h1: "Webvalley headquarters in Brno"
+        first:
+            h3: "Office address"
+            li1: "(Our Affiliated Product company)"
+        second:
+            h3: "How to find us"
+            li1: "KAMENA building, turn right after you enter"
+            li2: "Parking available in the complex"
+            li3: "Streetcar no. 2, 5 (Stops Ústřední hřbitov - smyčka, Bohunická)"
+            li4: "PUBLIC TRANSPORT buses no. 50 (Stop Traťová)"
+        third:
+            h3: "Branch contacts"
+            li4: "Office hours: Mon-Fri, 8 a.m. - 5 p.m."
+        fourth:
+            h3: "Responsible person"
+
+billingInformation:
+    h1: "Billing information"
+    ul1:
+        li4: "ID NO: 29448531"
+        li5: "VAT REG NO: CZ29448531"
+    ul2:
+        li1: "CZK Account"
+    ul3:
+        li1: "USD Account"
+        li4: "code"
+    p: "Our company is registered in the Commercial Register at the Regional Court in Ostrava under no: C 54096."
+
+recruitment:
+    h1: "Do you want to join the Webvalley team?"
+    p: "Do you think day and night about breakpoints to debug script? Over the weekend, do you stitch together a mobile app to pass the time? Do you draw in digital better than Picasso? We want to know about you! Call us and we’ll put our heads together and you just might find a place here at Webvalley."
+    button: "Start your career"

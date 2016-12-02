@@ -1,0 +1,58 @@
+.transition (@transition) {
+  -webkit-transition: @transition;
+  -moz-transition: @transition;
+  -ms-transition: @transition;
+  -o-transition: @transition;
+}
+
+.slider {
+  height: 608px;
+  overflow: hidden;
+
+  .arrow {
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    color: #bbbbbb;
+    z-index: 999;
+    cursor: pointer;
+    .transition(all 400ms ease);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    &:hover {
+      color: #ffffff;
+    }
+
+  }
+  .tiecons-arrow-tall-light-left {
+    left: 0;
+  }
+  .tiecons-arrow-tall-light-right {
+    right: 0;
+  }
+
+  .area {
+    position: absolute;
+    left: 0;
+    .transition(all 400ms ease);
+  }
+
+  .slide {
+    position: relative;
+    float: left;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  @media (max-width: 767px) {
+    .tiecons-arrow-tall-light-left {
+      left: 0%;
+    }
+
+    .tiecons-arrow-tall-light-right {
+      right: 0%;
+    }
+  }
+}

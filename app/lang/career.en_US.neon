@@ -1,0 +1,52 @@
+jumbotron:
+    h1a: "Is "
+    h1b: "Webvalley"
+    h1c: " a good fit for you?"
+    p: "Do you spend every day and night thinking about breakpoints while debugging scripts, relax by putting together an best selling app on the weekends or are more creative than Picasso? Then we wanna get to know you!"
+
+mainInfo:
+    h2a: "Find out more about us - we are Webvalley"
+    pa: "We are developing web based solutions, cloud apps and mobile apps for entrepreneurs and businesses all around the world. Most of our clients is from the USA, which drives us forward - American market is extremely competitive and innovative."
+    h2b: "Who are we looking for?"
+    p1: "Mostly coders and programmers, but we will  "
+    p2: "certainly find a place for any "
+    p3: "creative, talented"
+
+information:
+    h1a: "Coder"
+    h2a: "WHAT DO WE EXPECT FROM YOU?"
+    lia1: "good english"
+    lia2: "real interest in new technologies"
+    lia3: "need skills: HTML, CSS, JS"
+    lia4: "useful skills: LESS, GIT"
+    lia5: "be driven to go forward and change the world"
+
+    h1b: "Programmer"
+    h2b: "WHAT DO WE EXPECT FROM YOU?"
+    lib1: "good english"
+    lib2: "real interest in new technologies"
+    lib3: "need skills: OOP, PHP, MySQL"
+    lib4: "useful skills: Symfony, Doctrine, GIT, Docker"
+    lib5: "be driven to go forward and change the world"
+
+offer:
+    h1: "HERE’S OUR OFFER"
+    li1: "place - projects in Ostrava or Brno"
+    li2: "form - HPP, DPP"
+    li3: "competitive salary"
+    li4: "we will drive you forward, you will help us build our business"
+    li5: "international and local contacts, know-how, confidence"
+    li6: "young team of really cool people"
+
+form:
+    h2: "Email us, and let’s get together for a coffee at our office and we can brainstorm some ideas on, maybe there is a perfect fit for you here at Webvalley :)"
+    select:
+        span: "I’m interested in job as a"
+        o1: "programmer"
+        o2: "coder"
+        o3: "other"
+    mail: "my email is"
+    mailP: "info@mymail.com"
+    phone: "or my phone number is"
+    phoneP: "00421"
+    submit: "Send message"

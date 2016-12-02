@@ -1,0 +1,243 @@
+jumbotron:
+    h1a: "Webvalley lets the"
+    h1b: "results"
+    h1dot: ""
+    h1c: "speak for themselves. And the numbers. Mainly the numbers"
+
+    item1: "case studies with specific numbers"
+    item2: "sales websites and client websites completed"
+    item3: "mobile applications with 100,000 downloads"
+    item4: "increase in website conversion rates in 3 months"
+    item5: "errors detected through user testing"
+
+references:
+    adonis:
+        item1: "thousand satisfied customers"
+        item2: "higher conversion rate"
+        item3: "customers bought another product"
+    ese:
+        h2: "Although Eat Stop Eat recommends a day of fasting, its website can’t afford to take a break."
+    ff:
+        h2: "What do Webvalley and American rapper Flo Rida have in common? The FLO FIT Project!"
+    hah:
+        h2: "Even though Hot at Home focuses on casual home exercise, the website needed professional help"
+    venus:
+        item1: "thousand customers"
+        item2: "A/B tests per month"
+        item3: "thousand customers using mobile app"
+    tfw:
+        h2: "Thin From Within increases a person’s vitality, Webvalley increases the conversion rate"
+
+    testimonials: "And the resulting degree of client states?"
+
+
+adonis:
+    jumbotron:
+        h1before: "Adonis increases its conversion rate by "
+        h1in: "30%"
+        h1after: ". A new UX, design and testing methods increased conversions by a third"
+
+        item1: "thousand satisfied customers"
+        item2: "higher conversion rate"
+        item3: "customers bought another product"
+
+    section1: "The Adonis Index is one of the largest online fitness businesses. It helps men from all over the world achieve the perfect body through engaging programs, weight-loss plans and body building."
+    section2: "What is the key to their success? An ideal mathematical formula which was developed after years of research by John Barban and Brad Pilon."
+    section3: "Most programs and supplements on the market today are based on the work of these industry leaders."
+
+    aboutProject: "When Webvalley started on the Adonis project, the website already had a client section as well as sales pages but everything was built on a simple OptimizePress template. At that time it was an average blog - with a great vision. But the website was not ready for high volumes of traffic, suffered from security issues and was not able to expand further. Therefore, we developed new sales pages with unique graphics, programmed the technology for a strong membership portal and moved the whole site onto our servers. With these changes, we are able to respond to every problem in less than two minutes."
+
+    giveServices:
+        h1Top: "The Webvalley team put all their effort into the Adonis project"
+        h2:
+            a: "Website optimization"
+            b: "Securing the client area"
+            c: "One Click Buy online payment"
+            d: "The design"
+            e: "A/B Testing (Split Testing)"
+            f: "Mobile applications"
+            g: "Increasing the conversion rate"
+            h: "Server solution"
+            i: "Database acceleration"
+        p:
+            a: "We wrote hundreds of thousands of lines of code and reworked the original site completely (“refactorization of the source code”). We reduced the size of all the illustrations as well. The result is that all of the front end pages load up to five times faster."
+            b: "We created an impregnable fortress in the client area so that each online product is accessible only to the user who makes the purchase properly."
+            c: "ClickBank is the most widely used payment platform in the USA in this industry. In cooperation with Clickbank we programmed a solution whereby a customer does not even need their credit card details. They just click and the purchase is complete, very much like Apple’s app Store offers. This single “add-on” has increased revenue dramatically."
+            d: "We developed new graphics for the sales pages and client section. The design was user-tested and after going live, we continue to experiment with changes and their impact on conversion rates. We also consulted with the Adonis Community Influencers and top users to develop the most user friendly environment possible."
+            e: "We designed and tested the newest elements so that changes in the graphics would increase the conversion rate of the website. We tested different colors for the ´buy´ button, the logo and photos."
+            f: "After the initial research in the customer base, from the first sketches, to uploading into app store, we designed and developed a mobile application on both Android and iOS platforms. And we’ve thoroughly tested after hitting each milestone. So far, the application has well over 98,000 downloads."
+            g: "We have increased the conversion rate by 30%, compared to the original version of the website, by combining the One Click Buy payment method and our A/B testing methods. A long-term increase in conversion rates is our strategic goal."
+            h: "High-density traffic from hundreds of thousands or sometimes even millions of users a month used to overload the server. To correct this, we applied a load-balancing infrastructure to distribute traffic between more servers."
+            i: "The old CRM was slowing down the application so we modified the internal indexes as well as complex SQL queries within the database. The CRM and application now both work at lightning speed."
+        h1Bottom: "Other projects also wanted the Webvalley treatment"
+
+
+eatStopEat:
+    jumbotron:
+        h1: "Although Eat Stop Eat recommends a day of fasting, its website can’t afford to take a break."
+
+    section1: "The Eat Stop Eat book triggered a worldwide boom using fasting to promote weight loss."
+    section2: "Eat Stop Eat helps people overcome the slow progress of shaping their figure and accelerates it by utilizing fasting. This weight-loss program is built around a 24-hour fast once a week."
+    section3: "Although it sounds too simple to be true, it is supported by years of research and dozens of tried-and-tested publications by Brad Pilon, an authority in the field and the designer of many best selling fitness supplements."
+
+    aboutProject: "Brad handed this project to the us, the Webvalley team after he already had his sales pages completed. We developed the whole client section with unique graphics, added increased security and moved the site to our own servers that feature load-balancing infrastructure. This allows us to comfortably handle high-density traffic from millions of visitors, protect the data and servers from hackers, and respond to any potential problem within two minutes. The project is ongoing as we test each modification, with the common goal we share with the client - to increase the conversion rate of the site."
+
+    giveServices:
+        h1Top: ""
+        h2:
+            a: "Website optimization"
+            b: "Securing the client section"
+            c: "One Click Buy Online payment"
+            d: "The design"
+            e: "A/B Testing (Split Testing)"
+            f: "Increasing the conversion rate"
+            g: "Server solution"
+        p:
+            a: "It took developers 150,000 lines of code to complete the client section of the website. It loads lightning-fast, is perfectly secure, and customers can make product purchases with just one click."
+            b: "Each online product is only accessible by the user who made the purchase properly. Similar content is often difficult to secure in order to ensure it is not accessed without being noticed and to prevent it from being shared. We solved this problem."
+            c: "Clickbank is the most widely-used payment platform in the USA. Working with them, we developed a simple online payment method whereby the user makes a product purchase with a simple click. There is no need enter card numbers or fill out forms each time the customer makes a purchase."
+            d: "The most noticeable change is the work done by our UX team and graphic designers. Users of the client section have everything neatly laid out for them. The design of the website is easy to navigate and makes a trustworthy impression on customers. All proposed ideas have been tested."
+            e: "The UX team gathers suggestions from users, proposes a concept and graphic designers draft the design. But it doesn’t end there. We continually work on changes and each of them is A/B-tested. Different button colours, photos and logos."
+            f: "24 hours a day, 7 days a week, 365 days a year. This is our plan to increase the conversion rate and sales in the client section of a website. This is achieved through A/B testing, the One Click Buy method and improvements in graphics."
+            g: "Though our experience with similar projects, we scale the technology aimed at a high-density traffic for millions of users per month. Hosting on our own servers with load-balancing infrastructure guarantees that the site will never slow down."
+        h1Bottom: "Other projects have switched to the Webvalley diet too"
+
+
+floFit:
+    jumbotron:
+        h1before: "What do Webvalley and American rapper Flo Rida have in common? "
+        h1in: "The FLO FIT Project!"
+
+    section1: "The face of the FLO FIT project is American singer and rapper "
+    section1Span: "Flo Rida."
+    section2: "Who has 19 million Facebook fans and almost 6 million followers on Twitter. The rapper works hard on his physique but FLO-FIT allows people to adapt his intense exercise regimen and get in shape quickly."
+    section3: "The video workout sessions are streamed via both a Web application, as well as mobile applications for Android and iOS."
+
+    aboutProject: "Webvalley has been working on FLO FIT since the very beginning. This allowed us to build a solid foundation and scale the technology according to traffic density and lay the groundwork for future expansion. We’ve designed a brand new graphics for the site, programmed a membership portal for FloFit clients. Our team also developed mobile applications where users can play training videos and easily follow their workout and meal plans. The sales pages as well as the client section have been built from scratch based on target research and the client’s needs. Our current focus is on testing with the ultimate goal of increasing the website’s conversion rate."
+
+    giveServices:
+        h1Top: "The Webvalley team works on FLO FIT... intensively!"
+        h2:
+            a: "The development of the web application"
+            b: "Website optimization"
+            c: "Securing the client section"
+            d: "One Click Buy Online payment"
+            e: "The design"
+            f: "A/B Testing (Split Testing)"
+            g: "Mobile applications"
+            h: "Increasing the conversion rate"
+        p:
+            a: "We built the sales pages, client section and mobile application from the ground up and worked to increase the streaming speed of tutorial videos. The developers wrote over 200,000 lines of code - and it was worth it!"
+            b: "FLO-FIT is prepared to handle traffic from millions of visitors each month, but millions of unique visits put a huge load on video streams. To write good code would not be enough. We worked to debug each query, retrieve graphics and speed up responses."
+            c: "Online products and videos are accessible only by users who have purchased them, this is often a security problem. We’ve secured the client section, so user login and the online purchase system uses the best technology available."
+            d: "We have already calculated what the impact on the conversion rate has been by simplifying online purchases. By simplifying the payment method to just a single click, there is no need for the user to enter card details. We use Clickbank, the most popular platform in the USA, with some of our best tweaks to maximize the revenue and ROI of the whole project."
+            e: "Our UX team and graphic designers have been very thorough in their designs. The client supplied his own research, so they could build on hard data, and the time saved was devoted to proposals and design creation. Unique graphics were made for the web, the client section and mobile applications."
+            f: "Each change is tested regularly and for long term use prior to deployment on the website. By means of A/B testing we check the effect on the conversion rate when changing graphics, buttons, pictures, copy and everything else. Only after thorough testing and with solid data in hands do we make a permanent change."
+            g: "An important part of the project are mobile apps for iOS and Android. Created by our top developers from the first designs to fully-working versions that are used to play tutorial videos and implement training programs."
+            h: "The main task for Webvalley is to increase the conversion rate over the long term. We implemented the One Click Buy payment system, introduced trusted graphics and added mobile applications, while continuing to come up with new ideas and test them right away."
+        h1Bottom: "Other projects also required intensive results"
+
+
+hotAtHome:
+    jumbotron:
+        h1: "Even if Hot at Home is more for casual home use, the website needed professional help"
+
+    section1: "Because Jackie wasn’t satisfied with her body image, she could not even look at herself in the mirror. She wanted to lose weight but hated going to the gym."
+    section2: "At one point, she realized that simple movements can be turned into exercises and eventually came up with a routine people can use at home. Today she has the figure she always wanted."
+    section3: "That was the birth of Hot at Home, which helps people achieve their dream figure, even though they hate to go to the gym as much as Jackie once did."
+
+    aboutProject: "Webvalley took on the project when the site was built on Wordpress with several hundred pages. We needed to keep the content and transfer it all to the website. We rewrote code, built a new client section and customized the pages for mobile devices. Now our main goal is to increase the conversion rate for the site over the long term."
+
+    giveServices:
+        h1Top: "The Webvalley team went full-steam ahead on the project from the start"
+        h2:
+            a: "Securing the client section"
+            b: "One Click Buy Online payment"
+            c: "The design"
+            d: "A/B Testing (Split Testing)"
+            e: "Mobile applications"
+            f: "Increasing the conversion rate"
+            g: "Migration of old data"
+        p:
+            a: "The project's main business is selling online products. Access to products as well as the client section was secured so that it is accessible only to customers who purchased the products properly. Thanks to new security measures, there is no way for anyone else to gain access and steal the product without paying for it. After our experience from the past 2 years building businesses in the industry and seeing how vulnerable certain systems are against hackers we’ve also added some layers of extra security just to keep all the data safe."
+            b: "For the client section, we have incorporated our favorite and recently developed One Click Buy online payment method in cooperation with Citibank, which is the most widely used payment platform in the USA in this industry. The user just clicks and purchases products repeatedly without having to enter payments and personal details again."
+            c: "A team of graphic designers and their colleagues from the UX Department supplied the project with a new interface and tested the design on real users. Then we tuned up the web image, its client section and gradually proposed changes that are always tested first."
+            d: "A change of the color of a buy button, different photos (more emotional and targeted) or new payment method can have a huge impact on the conversion rate of a website (sometimes even in tens of percent. Over the long term, we're trying to change, add or subtract elements to improve the site, but any change is first A/B tested before it is fully implemented."
+            e: "In addition to web responsiveness we designed, programmed and tested a mobile application for iOS and Android. Users thus have their exercise programs always at hand, even on their smart phones. So they are never left hanging when at the gym trying to remember what they were supposed to do next."
+            f: "The main task of Webvalley is to increase the conversion rate over the long term for the site, as well as increasing sales of other products in the client section of the application. We use A/B testing, editing, graphics and have implemented the Buy One Click payment method, which was a big help."
+            g: "The original site was built on Wordpress and included hundreds of pages of valuable content that we had to package better into a more easy to use format. Keeping and migrating the data without any loss was a top priority. We programmed the scripts and the old templates were then automatically transferred to the new design and framework."
+        h1Bottom: "Webvalley produced better results for other projects, too"
+
+
+venusIndex:
+    jumbotron:
+        h1before: "Webvalley technology serves "
+        h1in: "over 46 million"
+        h1after: " visitors a year for Venus"
+
+        item1: "thousand customers"
+        item2: "A/B tests per month"
+        item3: "thousand customers using mobile app"
+
+    section1: "The Venus Index fulfills the dreams of millions of women around the world."
+    section2: "Thanks to its weight loss plans they achieve the perfect figure without extreme diet, unrealistic goals or dangerous exercises."
+    section3: "The shaping of an ideal body stems from long-term research by John Barban and Brad Pilon, authorities and leaders in the field. Most of today's programs and supplements are based on their research."
+
+    aboutProject: "After our experience working on the Adonis project, we built a new version of its sister project - the Venus website from the ground up utilizing the power of modern technology. We designed it to be scalable in order to cope with traffic from millions of visitors each month and enable it to expand over the coming years. The website is 20 times larger than the Adonis project and is visited every month by over 3 million new people. Hosting the project and supervising it on our own servers enables us to guarantee availability and give immediate attention to even the smallest technical glitch."
+
+    testimonial:
+        p: "Its good to refresh things in your mind, plus the new updates manual and trackers are great. I enjoyed looking at the site on different platforms. From the computer, my phone app (android smart phone), to my Ipad mini...each version of Venus was fresh to the eyes and really easy to navigate as well as sleek and stylish. Great job programmers and designers, and all the backdoor people at venus who keep this site running."
+
+    giveServices:
+        h1Top: "How did the Webvalley team manage to get Venus in shape?"
+        h2:
+            a: "Website optimization"
+            b: "Securing the client section"
+            c: "One Click Buy Online payment"
+            d: "The design"
+            e: "A/B Testing (Split Testing)"
+            f: "Mobile applications"
+            g: "Increasing the conversion rate"
+            h: "Server solution"
+            i: "Database acceleration"
+        p:
+            a: "We rewrote the code of the original website, programming hundreds of thousands of lines of code and reduced the data size of all illustrations and graphics to enable faster page loading. A lot faster, which translates into more front end sales, and less annoyed customers in the clients section, which means less money spent on customer support."
+            b: "We have developed the client section of the site so that each online product is only accessible by a customer who has made a proper purchase. Usually such a type of content is obtainable by other means, but our solution eliminates most of those unwanted ways of attaining the products without paying for them first."
+            c: "ClickBank is the most widely used platform in the USA and partnering with them, we programmed a payment method whereby the customer doesn’t need to enter a card number. Just one click and the product is purchased."
+            d: "A team of graphic designers drafted a comprehensive proposal for the Venus sales pages and the entire client section. A new UX and design significantly increased the website conversion rate."
+            e: "The work of graphic designers did not end with the new design. We are constantly developing additional elements and testing their influence on the conversion rate. By means of A/B testing we check the impact of different colors of the ´buy´ button, the logo and photographs."
+            f: "As an alternative to the web client section, we also built a mobile application for iOS and Android. We designed and implemented a full-functioning application that’s been downloaded by almost 90,000 users."
+            g: "We increased the website conversion rate by almost 32% in comparison with the original version. The high increase in conversion rate was achieved by a combination of the One Click Buy payment method and A/B testing."
+            h: "Before, millions of users per month flooded the server but now, with the scalable solution we have built, a load-balancing mechanism has been deployed on the servers, which divides the load evenly across multiple servers."
+            i: "In addition to dealing with heavy traffic loads on the servers, we had to solve the problem of an outdated database in a CRM application that is tied to the client section of the site. We have optimized indexes as well as complex SQL queries and now there is nothing to slow the application down."
+        h1Bottom: "Other projects that have reached their goals with Webvalley"
+
+
+thinFromWithin:
+    jumbotron:
+        h1before: "Thin From Within increases a person’s vitality, Webvalley "
+        h1in: "increases the conversion rate"
+
+    section1: "Thin From Within helps people get into a healthy lifestyle..."
+    section2: "...implement good eating habits for better performance, rapid weight loss and to achieve a happy life full of vitality."
+    section3: "Each weight loss plan is based on research about healthy and unhealthy bacteria in the digestive tract and the benefits of probiotics and other foods. This research is has been conducted by John Barban, Brad Pilon and a few other people from the field. "
+
+    aboutProject: "Webvalley received the project when its sales pages and the client section were already completed. Both sections however were pushed to their limits but there were reservations concerning the conversion rate and the ambitious goals of the client who had outgrown the available technology. We went on to rework the site, building a new version to make it scalable in order to handle millions of visitors per month. The aim was to be able to easily change anything, expand, and make improvements, while increasing the website’s conversion rate - but all these changes were first thoroughly tested. Our experience with previous projects came in handy, especially from the Adonis and Venus projects."
+
+    giveServices:
+        h1Top: "How did our Webvalley team help Thin From Within to expand?"
+        h2:
+            a: "Website optimization"
+            b: "Securing the client section"
+            c: "One Click Buy Online payment"
+            d: "The design"
+            e: "A/B Testing (Split Testing)"
+            f: "Increasing the conversion rate"
+        p:
+            a: "Over time, by refactoring, we rewrote the entire original source code with 100,000 lines of new code, speeding up page loads. We also reduced the data size of all illustrations and graphics."
+            b: "Usually online products are at risk from fraud and theft, without being legally purchased. We've secured the client section so that each product is only obtainable by a user who has properly purchased it."
+            c: "Clickbank is the most widely used payment platform in the USA. In cooperation with Clickbank we programmed the online products so they can be purchased with a single click. The user doesn’t need to even enter a card number. They just click and buy the product."
+            d: "The UX team and graphic designers started work on the new design of the sale pages and client section for registered users. A more modern appearance and environment significantly contributed to the increase in the conversion rate of the entire website."
+            e: "To just implement a new design would deprive the project of continuous growth in their conversion rate. We regularly propose and test a combination of new features and their effect on sales. We fine-tune the colors of buy buttons, photos, logo, with any change A/B tested beforehand."
+            f: "We have gradually increased the website conversion rate by more than 24% in comparison with the original version of the site. The greatest influence on the conversion rate was the introduction of the One Click Buy payment system, the new design, and especially the rigorous A/B testing."
+        h1Bottom: "Other projects need to revive their vitality too"
