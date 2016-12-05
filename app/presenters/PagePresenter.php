@@ -138,9 +138,9 @@ class PagePresenter extends BasePresenter
             $this->redirect('this');
         } else {
             $values->createdAt = new DateTime();
-            $this->pageManager->insert($values);
+            $id = $this->pageManager->insert($values);
             $this->flashMessage('Stránka byla vytvořena.');
-            $this->redirect('this', ['pageName' => $values->page_name]);
+            $this->redirect('this', ['id' => $id]);
         }
     }
 }
