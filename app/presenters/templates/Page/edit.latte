@@ -1,0 +1,117 @@
+{layout "../@layout-edit.latte"}
+{block bodyClass}
+    {if $page}{$page->page_name}{else}New{/if}-edit
+{/block}
+
+{block head}
+
+    <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+
+    <script>
+        tinymce.init({
+            selector:'#frm-editForm-jumbotron'
+        });
+
+        tinymce.init({
+            selector:'#frm-editForm-content',
+            height: '400px',
+        });
+    </script>
+
+    <style>
+
+        label span{
+            color: #FFFFFF;
+            font-weight: 300;
+
+        }
+
+        input{
+            background: none;
+            width: 100%;
+            margin-bottom: 10px;
+            color: #fff;
+
+            padding: 5px;
+            font-size: 14px;
+            border: 1px solid #5e5e5e;
+        }
+
+        textarea{
+            background: none;
+            width: 100%;
+            min-height: 100px;
+        }
+
+        input[type="submit"] {
+            display: block;
+            width: 200px;
+            margin-left: auto;
+            margin-right: auto;
+            border: none;
+            background: #006500;
+            color: #FFFFFF;
+            padding: 10px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+
+{/block}
+
+{block title}
+    Edit: {if $page}{$page->title}{else}New{/if}
+{/block}
+
+
+{block active}
+    <div class="lang">
+        <a href="#" class="active">CZ</a>
+        <a href="#">EN</a>
+    </div>
+{/block}
+
+
+{block jumbotron}
+    {label page_name}
+        <span>URI - location:</span>
+        {input page_name}
+    {/label}
+
+    {label title}
+        <span>Title:</span>
+        {input title}
+    {/label}
+
+    {label lang}
+        <span>Lang:</span>
+        {input lang}
+    {/label}
+
+    <div class="margin-top-20"></div>
+
+    {label jumbotron}
+        <span>Jumbotron:</span>
+        {input jumbotron}
+    {/label}
+{/block}
+
+
+{block content}
+
+    <section id="page-content" style="margin-top: 20px; margin-bottom: 20px">
+        <div class="container">
+            {input content}
+
+            {input save}
+
+            {if $page}
+                <a n:href="Page:page, pageName => $page->page_name"><- Zpět na stránku</a> <br>
+            {/if}
+
+            <a n:href="Page:list">Seznam stránek</a> <br>
+            <a class="button" n:href="Page:edit">Nová stránka</a> <br>
+        </div>
+    </section>
+
+{/block}

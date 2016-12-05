@@ -1,0 +1,38 @@
+{block bodyClass}{$page->page_name}{/block}
+
+
+{block title}
+    {$page->title}
+{/block}
+
+
+{block active}
+    <div class="lang">
+        <a href="#" class="active">CZ</a>
+        <a href="#">EN</a>
+    </div>
+{/block}
+
+
+{block jumbotron}
+    {$page->jumbotron|noescape}
+
+    <div class="page-actions">
+        <a class="button" n:href=":Page:edit id => $page->id, pageName=>null">Edit</a>
+        <a class="button" n:href=":Page:edit, pageName=>null">Nová stránka</a>
+        <a class="button" n:href=":Page:list, pageName=>null">Seznam stránek</a>
+    </div>
+{/block}
+
+
+{block content}
+
+    <section id="page-content" style="margin-top: 20px; margin-bottom: 20px">
+        <div class="container">
+            {$page->content|noescape}
+        </div>
+    </section>
+
+    {include ../form.latte}
+
+{/block}

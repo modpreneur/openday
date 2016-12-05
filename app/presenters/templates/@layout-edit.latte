@@ -52,6 +52,7 @@
 
 <body class="{block bodyClass}{/block}">
 	<div n:foreach="$flashes as $flash" n:class="flash, $flash->type">{$flash->message}</div>
+    {form editForm}
 
     <header class="clearfix">
         <div class="filter-header">
@@ -135,6 +136,8 @@
             </div>
         </div>
     </footer>
+
+    {/form}
 
     {if $showCritical}
         <script>
