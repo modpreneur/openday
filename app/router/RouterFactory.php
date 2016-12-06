@@ -24,6 +24,8 @@ class RouterFactory
 
         $router[] = new Route('[<locale=cz cz|en>/]', 'Homepage:default');
 
+        $router[] = new Route('[<locale=cs cs|en>/]<presenter>/<action>', "Homepage:");
+
         $router[] = new Route('[<locale=cz cz|en>/]list', 'Page:list');
 
         $router[] = new Route('[<locale=cz cz|en>/]remove[/<id>]', 'Page:remove');

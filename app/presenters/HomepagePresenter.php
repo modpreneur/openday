@@ -13,5 +13,9 @@ class HomepagePresenter extends BasePresenter
 	{
 
 	}
+	public function renderBefore()
+	{
+
+	}
 
 }

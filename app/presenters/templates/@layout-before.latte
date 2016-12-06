@@ -1,0 +1,142 @@
+{**
+ * @param string   $basePath web base path
+ * @param array    $flashes  flash messages
+ *}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>{ifset title}{include title|stripHtml} | {/ifset}Webvalley</title>
+
+    <link rel="stylesheet" href="{$basePath}/css/montserrat.css">
+    <link rel="stylesheet" href="{$basePath}/css/tiecons.css">
+    <link rel="stylesheet" href="{$basePath}/css/custom-before.css">
+
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <link rel="icon" type="image/png" sizes="96x96" href="{$basePath}/favicon/favicon-96x96.png">
+    <link rel="manifest" href="http://www.webvalley.cz/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{$basePath}/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="author" content="Webvalley">
+    <meta name="description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <meta name="keywords" content="webvalley, web, weby, webs, appky, apps, konverze, conversion, online">
+    <meta itemprop="name" content="WEBVALLEY - Vaše nápady přetváříme na ziskový online byznys">
+    <meta itemprop="description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <!-- Open Graph data -->
+    <meta property="og:title" content="WEBVALLEY - Vaše nápady přetváříme na ziskový online byznys">
+    <meta property="og:site_name" content="Webvalley">
+    <meta property="og:description" content="Vývoj webu, softwaru, mobilních aplikací včetně designu, user testingu, split-testingu, analýza dat a business konzultací přesně podle vašich představ.">
+    <meta property="og:url" content="http://www.webvalley.cz/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{$basePath}/favicon/favicon-96x96.png">
+    <!--FB-->
+    <meta property="fb:admins" content="webvalley">
+
+    <link rel="canonical" href="http://www.webvalley.cz">
+
+    <meta name="robots" content="index, follow">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	{block head}{/block}
+</head>
+
+<body class="{block bodyClass}{/block}">
+	<div n:foreach="$flashes as $flash" n:class="flash, $flash->type">{$flash->message}</div>
+
+    <header class="clearfix">
+        <div class="filter-header">
+            <input type="checkbox" id="main-navigation" class="display-none" />
+            <label for="main-navigation" class="full-page-close"></label>
+            <div class="bg-menu"></div>
+            <div class="container">
+                {block header}
+                    <div class="row">
+                        <div class="span-mini-8">
+                            <a class="main-logo" href="#"><img src="{$basePath}/images/wv-logo-white.svg" alt="Webvalley" width="195" height="71"></a>
+                            {control breadcrumb}
+                        </div>
+                        <div class="span-mini-16 static-small text-right static">
+                            <nav>
+                                {block active}{/block}
+                                <label for="main-navigation" class="label-navigation">
+                                    <span class="top"></span>
+                                    <span class="middle"></span>
+                                    <span class="bottom"></span>
+                                </label>
+                                <div class="main-navigation navbar">
+                                    <ul class="row">
+                                        <div class="span-small-8 first">
+                                            <li><a href="#">Weby</a></li>
+                                            <li><a href="#">Appky</a></li>
+                                            <li><a href="#">Konverze</a></li>
+                                        </div>
+                                        <div class="span-small-8 second">
+                                            <div class="inside">
+                                                <li><a href="#">Služby</a></li>
+                                                <li><a href="#">Reference</a></li>
+                                                <li><a n:href="Page:page, pageName => o-nas">O nás</a></li>
+                                            </div>
+                                        </div>
+                                        <div class="span-small-8 third">
+                                            <div class="inside">
+                                                <li><a href="#">Kariéra</a></li>
+                                                <li><a href="#">Partneři</a></li>
+                                                <li><a href="#">Kontakt</a></li>
+                                            </div>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                {/block}
+            </div>
+
+            <section>
+                <div class="container">
+                    {block jumbotron}{/block}
+                </div>
+                {block scroll}{/block}
+                <a class="go-down" id="go-down" href="#main-section"><i class="tiecons tiecons-arrow-simple-normal-down"></i></a>
+            </section>
+        </div>
+    </header>
+
+    <section id="main-section">
+        {block content}{/block}
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="span-medium-6">
+                    <a class="main-logo" href="#"><img src="{$basePath}/images/wv-logo-white.svg" alt="Webvalley" width="195"></a>
+                </div>
+                <div class="span-medium-18">
+                    <nav class="navbar">
+                        <ul>
+                            <li><a href="#">O nás</a></li>
+                            <li><a href="#">Kontakt</a></li>
+                            <li><a href="#">Kariéra</a></li>
+                            <li><a href="#">Partneři</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://nette.github.io/resources/js/netteForms.min.js"></script>
+    <script src="{$basePath}/js/main-before.js"></script>
+	{block scripts}{/block}
+</body>
+</html>

@@ -106,11 +106,11 @@
             {input save}
 
             {if $page}
-                <a n:href="Page:page, pageName => $page->page_name"><- Zpět na stránku</a> <br>
+                <a class="button button-secondary" n:href="Page:page, pageName => $page->page_name"><- Zpět na stránku</a>
             {/if}
 
-            <a n:href="Page:list">Seznam stránek</a> <br>
-            <a class="button" n:href="Page:edit">Nová stránka</a> <br>
+            <a class="button button-info" n:href="Page:list">Seznam stránek</a>
+            <a class="button button-tertiary" n:href="Page:edit">Nová stránka</a> <br>
         </div>
     </section>
 

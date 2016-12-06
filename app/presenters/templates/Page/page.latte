@@ -1,9 +1,6 @@
 {block bodyClass}{$page->page_name}{/block}
 
-
-{block title}
-    {$page->title}
-{/block}
+{block title}{$page->title}{/block}
 
 
 {block active}
@@ -15,12 +12,14 @@
 
 
 {block jumbotron}
-    {$page->jumbotron|noescape}
+    <div class="text-header-edit">
+        {$page->jumbotron|noescape}
+    </div>
 
     <div class="page-actions">
-        <a class="button" n:href=":Page:edit id => $page->id, pageName=>null">Edit</a>
-        <a class="button" n:href=":Page:edit, pageName=>null">Nová stránka</a>
-        <a class="button" n:href=":Page:list, pageName=>null">Seznam stránek</a>
+        <a class="button button-tertiary" n:href=":Page:edit id => $page->id, pageName=>null">Edit</a>
+        <a class="button button-secondary" n:href=":Page:edit, pageName=>null">Nová stránka</a>
+        <a class="button button-info" n:href=":Page:list, pageName=>null">Seznam stránek</a>
     </div>
 {/block}
 
